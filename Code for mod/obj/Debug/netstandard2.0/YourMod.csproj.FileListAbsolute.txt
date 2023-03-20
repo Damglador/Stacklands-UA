@@ -1,0 +1,15 @@
+C:\Users\vsest\Desktop\Нова папка (2)\obj\Debug\netstandard2.0\YourMod.csproj.AssemblyReference.cache
+C:\Users\vsest\Desktop\Нова папка (2)\obj\Debug\netstandard2.0\YourMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsest\Desktop\Нова папка (2)\obj\Debug\netstandard2.0\YourMod.AssemblyInfoInputs.cache
+C:\Users\vsest\Desktop\Нова папка (2)\obj\Debug\netstandard2.0\YourMod.AssemblyInfo.cs
+C:\Users\vsest\Desktop\Нова папка (2)\obj\Debug\netstandard2.0\YourMod.csproj.CoreCompileInputs.cache
+C:\Users\vsest\Desktop\UA Stacklands\bin\Debug\netstandard2.0\YourMod.deps.json
+C:\Users\vsest\Desktop\UA Stacklands\bin\Debug\netstandard2.0\YourMod.dll
+C:\Users\vsest\Desktop\UA Stacklands\bin\Debug\netstandard2.0\YourMod.pdb
+C:\Users\vsest\Desktop\UA Stacklands\obj\Debug\netstandard2.0\YourMod.csproj.AssemblyReference.cache
+C:\Users\vsest\Desktop\UA Stacklands\obj\Debug\netstandard2.0\YourMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsest\Desktop\UA Stacklands\obj\Debug\netstandard2.0\YourMod.AssemblyInfoInputs.cache
+C:\Users\vsest\Desktop\UA Stacklands\obj\Debug\netstandard2.0\YourMod.AssemblyInfo.cs
+C:\Users\vsest\Desktop\UA Stacklands\obj\Debug\netstandard2.0\YourMod.csproj.CoreCompileInputs.cache
+C:\Users\vsest\Desktop\UA Stacklands\obj\Debug\netstandard2.0\YourMod.dll
+C:\Users\vsest\Desktop\UA Stacklands\obj\Debug\netstandard2.0\YourMod.pdb

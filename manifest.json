@@ -1,0 +1,10 @@
+{
+    "name": "Ukrainian_Language",
+    "version_number": "0.5.0",
+    "website_url": "",
+    "description": "Українська мова тепер в грі!",
+    "dependencies": [
+        "BepInEx-BepInExPack_Stacklands-5.4.2100",
+        "BerryLoader-BerryLoader-0.8.0"
+    ]
+}

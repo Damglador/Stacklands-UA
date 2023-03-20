@@ -1,0 +1,8 @@
+{
+  "name": "VietnameseTranslation",
+  "id": "vietnamese-translate",
+  "description": "Translate to Vietnamese. Được dịch sang tiếng Việt.",
+  "version_number": "0.0.2",
+  "dependencies": [ "BepInEx-BepInExPack_Stacklands-5.4.2100", "BerryLoader-BerryLoader-0.5.2" ],
+  "website_url": "https://github.com/Kahdeg-15520487/StackLand_vietnamese_translation"
+}
