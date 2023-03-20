@@ -28,6 +28,11 @@ Manual, як мод - беріть папочку Risk_of_Rain_2_Ukrainian і к
 
 ## Список змін
 <details>
+<summary>0.5.1</summary>
+
+* Персоналізований dll файл
+</details>
+<details>
 <summary>0.5.0</summary>
 
 * Дочасний реліз, звітуйте про помилки. Багато чого не перекладено

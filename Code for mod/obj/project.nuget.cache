@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1P59sqceJ86BRqlY/oRDecBS90Tb5z2Hwb5rwoMS0iPlG00/QFqra+2XeJd+AyPOI1JCIvFRVADf4v+AxrLEA==",
+  "dgSpecHash": "rNo9aC9qg6frQcCnq6ylqZJv98FknOC5qRk5PEDAiHNVJ3cXsRNrt7TGhQ60vEZ5rrv7yq4I1bWMDcrWCc0+Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vsest\\Desktop\\UA Stacklands\\YourMod.csproj",
+  "projectFilePath": "C:\\Users\\vsest\\Desktop\\Переклади\\Stacklands\\Code for mod\\Ukrainian_Language.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vsest\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\vsest\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",

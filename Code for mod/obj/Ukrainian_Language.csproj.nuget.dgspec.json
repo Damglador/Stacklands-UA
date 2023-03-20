@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vsest\\Desktop\\UA Stacklands\\YourMod.csproj": {}
+    "C:\\Users\\vsest\\Desktop\\Переклади\\Stacklands\\Code for mod\\Ukrainian_Language.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vsest\\Desktop\\UA Stacklands\\YourMod.csproj": {
+    "C:\\Users\\vsest\\Desktop\\Переклади\\Stacklands\\Code for mod\\Ukrainian_Language.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vsest\\Desktop\\UA Stacklands\\YourMod.csproj",
-        "projectName": "YourMod",
-        "projectPath": "C:\\Users\\vsest\\Desktop\\UA Stacklands\\YourMod.csproj",
+        "projectUniqueName": "C:\\Users\\vsest\\Desktop\\Переклади\\Stacklands\\Code for mod\\Ukrainian_Language.csproj",
+        "projectName": "Ukrainian_Language",
+        "projectPath": "C:\\Users\\vsest\\Desktop\\Переклади\\Stacklands\\Code for mod\\Ukrainian_Language.csproj",
         "packagesPath": "C:\\Users\\vsest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vsest\\Desktop\\UA Stacklands\\obj\\",
+        "outputPath": "C:\\Users\\vsest\\Desktop\\Переклади\\Stacklands\\Code for mod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vsest\\Desktop\\UA Stacklands\\NuGet.Config",
+          "C:\\Users\\vsest\\Desktop\\Переклади\\Stacklands\\Code for mod\\NuGet.Config",
           "C:\\Users\\vsest\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

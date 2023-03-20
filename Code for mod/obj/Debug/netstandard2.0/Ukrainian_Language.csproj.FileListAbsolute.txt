@@ -1,0 +1,10 @@
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\bin\Debug\netstandard2.0\Ukrainian_Language.deps.json
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\bin\Debug\netstandard2.0\Ukrainian_Language.dll
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\bin\Debug\netstandard2.0\Ukrainian_Language.pdb
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\obj\Debug\netstandard2.0\Ukrainian_Language.csproj.AssemblyReference.cache
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\obj\Debug\netstandard2.0\Ukrainian_Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\obj\Debug\netstandard2.0\Ukrainian_Language.AssemblyInfoInputs.cache
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\obj\Debug\netstandard2.0\Ukrainian_Language.AssemblyInfo.cs
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\obj\Debug\netstandard2.0\Ukrainian_Language.csproj.CoreCompileInputs.cache
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\obj\Debug\netstandard2.0\Ukrainian_Language.dll
+C:\Users\vsest\Desktop\Переклади\Stacklands\Code for mod\obj\Debug\netstandard2.0\Ukrainian_Language.pdb

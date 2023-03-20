@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace VietnameseTranslationMod
 {
-    [BepInPlugin("ukrainian-translate", "Translate text into Ukrainian", "0.0.2")]
+    [BepInPlugin("ukrainian-language", "Ukrainian_Language", "1.0.0")]
     [BepInDependency("BerryLoader")]
     class Plugin : BaseUnityPlugin
     {
