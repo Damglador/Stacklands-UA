@@ -8,7 +8,7 @@ Ukrainian translation for Stacklands. Thanks https://github.com/Kahdeg-15520487/
 # Встановлення
 Thunderstore Launcher - тицніть кнопку "встановити" і готово
 
-Manual, як мод - беріть папочку Risk_of_Rain_2_Ukrainian і кидайте її в Plugins за шляхом Steam\steamapps\common\Stacklands\BepInEx\plugins
+Manual, як мод - беріть папочку Ukrainian_Language і кидайте її в Plugins за шляхом Steam\steamapps\common\Stacklands\BepInEx\plugins
 
 # Скріншоти
 <details>
