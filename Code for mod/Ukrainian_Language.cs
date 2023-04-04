@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine;
 
-namespace VietnameseTranslationMod
+namespace Ukrainian_Language
 {
     [BepInPlugin("ukrainian-language", "Ukrainian_Language", "1.0.0")]
     [BepInDependency("BerryLoader")]
