@@ -245,7 +245,7 @@ label_complete_more_quests		<one>Complete 1 more quest to unlock a new Pack!<oth
 label_complete_more_quests_for_pack		<one>Complete 1 more quest to unlock this Pack!<other>Complete [remaining] more quests to unlock this Pack!	<one>Виконайте 1 чи більше доручень, щоб розблокувати цей пакунок!<other>Виконайте ще [remaining] доручень, щоб розблокувати цей пакунок!
 label_completed_main_quest		You completed the Main Quest!	Ви виконали головне завдання!
 label_continue		Continue	Продовжити
-label_continue_run		Continue Run (Moon [moon])	Продовжити забіг (День [moon])
+label_continue_run		Continue Run (Moon [moon])	Продовжити (День [moon])
 label_credits		Credits	Автори
 label_damage		Damage:	Шкода:
 label_drag_coins_to_buy_pack		Drag [cost][goldicon] here to buy this Pack	Перенесіть [cost][goldicon] сюди, щоб купити цей пакунок
