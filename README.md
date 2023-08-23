@@ -1,7 +1,10 @@
 # Українізатор Stacklands
 Ось переклад, качайте, грайте, ніколи не використовуйте російську і радійте!
+
 Мод в майстерні Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3024648514
+
 Discord для ПП: damglador
+
 Discord сервер: https://discord.gg/RnabEW8SGR (Не лініться звітувати про помилки)
 
 # Встановлення
