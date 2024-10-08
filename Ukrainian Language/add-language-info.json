@@ -1,5 +1,7 @@
 {
-    "ColumnLanguageName": "Test Language",
-    "UnityLanguage": "Unknown",
-    "NativeDisplayName": "^_^ Test ^_^"
+    "ColumnLanguageName": "Ukrainian",
+    "UnityLanguage": "Ukrainian",
+    "NativeDisplayName": "Українська",
+    "FontUnityAssetPath": "assets/fonts/notosans-bold sdf - uk.asset",
+    "fontBundleFile":  "translation-fonts-uk.bundle"
 }

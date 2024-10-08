@@ -1,7 +1,7 @@
 {
-    "name": "Test Language",
-    "id": "Test_Language",
-    "version": "1.0.0",
+    "name": "Ukrainian Language",
+    "id": "Ukrainian_Language",
+    "version": "0.0.0",
     "dependencies": [
         "Stacklands_NewLanguageLoader"
     ]
