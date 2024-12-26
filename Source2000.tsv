@@ -1,0 +1,2642 @@
+Term	Notes	English	Ukrainian
+card_animal_pen_description		Can hold 5 Animals	
+card_animal_pen_name		Animal Pen	
+card_apple_description		Keeps doctors away	
+card_apple_name		Apple	
+card_apple_tree_description		A tree.. with apples in it	
+card_apple_tree_name		Apple Tree	
+card_apple_tree_status		Punching Apple Tree	
+card_bear_description		Soft yet dangerous	
+card_bear_name		Bear	
+card_berry_description		A simple food found in Berry Bushes	
+card_berry_name		Berry	
+card_berrybush_description		A bush with delicious berries in it	
+card_berrybush_name		Berry Bush	
+card_berrybush_status		Picking Berry Bush	
+card_bone_description		Fact: a skeleton consists of many of these	
+card_bone_name		Bone	
+card_brick_description		A strong building material	
+card_brick_name		Brick	
+card_brickyard_description		Quickly turns Stone into Bricks	
+card_brickyard_name		Brickyard	
+card_campfire_description		Can be used to cook foods - it looks warm & cozy	
+card_campfire_name		Campfire	
+card_carrot_description		The crunchiest vegetable	
+card_carrot_name		Carrot	
+card_catacombs_description		Rumored to contain a mysterious object	
+card_catacombs_name		Catacombs	
+card_catacombs_status		Exploring Catacombs	
+card_chicken_description		Alleged descendent of dinosaurs. I don't see it	
+card_chicken_name		Chicken	
+card_cooked_meat_description		It's cooked medium rare	
+card_cooked_meat_name		Cooked Meat	
+card_corpse_description		A dead human	
+card_corpse_name		Corpse	
+card_cow_description		MOOOOOO!	
+card_cow_name		Cow	
+card_demon_description		The Final Boss	
+card_demon_name		Demon	
+card_dog_description		Humanity's true best friend. Can do anything a Human can, just slower!	
+card_dog_name		Dog	
+card_egg_description		Can't be eaten raw: thanks salmonella	
+card_egg_name		Egg	
+card_explorer_description		Very fast at exploring Locations, but slightly slower at other tasks	
+card_explorer_name		Explorer	
+card_farm_description		An advanced building for growing Food	
+card_farm_name		Farm	
+card_flint_description		Used to start fires	
+card_flint_name		Flint	
+card_forest_description		A quaint place that also contains monsters	
+card_forest_name		Forest	
+card_forest_status		Exploring Forest	
+card_frittata_description		Delicious! Eat it with a fork	
+card_frittata_name		Frittata	
+card_fruit_salad_description		A classic ancient food	
+card_fruit_salad_name		Fruit Salad	
+card_garden_description		A simple building for growing Food	
+card_garden_name		Garden	
+card_giant_rat_description		Big version of a small Rat	
+card_giant_rat_name		Giant Rat	
+card_goblet_description		A mysterious object	
+card_goblet_name		Golden Goblet	
+card_goblin_description		A monster with bad posture	
+card_goblin_name		Goblin	
+card_gold_description		Humanity's best friend	
+card_gold_name		Coin	
+card_graveyard_description		Very different from a normal yard	
+card_graveyard_name		Graveyard	
+card_graveyard_status		Exploring Graveyard	
+card_house_description		A nice place to live	
+card_house_name		House	
+card_iron_bar_description		A shiny, valuable material	
+card_iron_bar_name		Iron Bar	
+card_iron_deposit_description		Contains Iron Ore	
+card_iron_deposit_name		Iron Deposit	
+card_iron_deposit_status		Punching Deposit	
+card_iron_ore_description		Can be turned into Iron Bars	
+card_iron_ore_name		Iron Ore	
+card_key_description		I wonder what it's for..	
+card_key_name		Key	
+card_kid_description		A young'un. Needs a House to grow up in.	
+card_kid_name		Baby	
+card_lumbercamp_description		An unlimited resource of Wood	
+card_lumbercamp_name		Lumber Camp	
+card_lumbercamp_status		Logging in Camp	
+card_map_description		Use a Map to turn a Villager into an Explorer	
+card_map_name		Map	
+card_market_name		Market	
+card_militia_name		Militia	
+card_milk_description		Fresh from the Cow	
+card_milk_name		Milk	
+card_milkshake_description		It's Berry flavoured	
+card_milkshake_name		Milkshake	
+card_mountain_description		A hill with a pointy edge	
+card_mountain_name		Mountain	
+card_mountain_status		Exploring Mountain	
+card_mushroom_description		An edible fungus	
+card_mushroom_name		Mushroom	
+card_old_tome_description		A book with some Idea in it	
+card_old_tome_name		Old Tome	
+card_old_tome_status		Studying Old Tome	
+card_old_village_description		A person is rumored to still live here..	
+card_old_village_name		Old Village	
+card_old_village_status		Exploring Old Village	
+card_omelette_description		Pépin would be proud	
+card_omelette_name		Omelette	
+card_onion_description		Can be eaten raw or can be cooked, whichever you prefer	
+card_onion_name		Onion	
+card_plains_description		The great outdoors	
+card_plains_name		Plains	
+card_plains_status		Exploring Plains	
+card_plank_description		A strong building material	
+card_plank_name		Plank	
+card_poop_description		It looks stinky	
+card_poop_name		Poop	
+card_potato_description		Smooth and starchy, but should be cooked first	
+card_potato_name		Potato	
+card_quarry_description		An unlimited resource of Stone	
+card_quarry_name		Quarry	
+card_quarry_status		Mining in Quarry	
+card_rabbit_description		Fluffy poop machine	
+card_rabbit_name		Rabbit	
+card_rat_description		Small version of a Giant Rat	
+card_rat_name		Rat	
+card_raw_meat_description		Should be cooked first	
+card_raw_meat_name		Raw Meat	
+card_rock_description		It looks sturdy, yet punchable	
+card_rock_name		Rock	
+card_rock_status		Punching Rock	
+card_sawmill_description		Quickly turns Wood into Planks	
+card_sawmill_name		Sawmill	
+card_shed_description		Increases your Card Cap by 4	
+card_shed_name		Shed	
+card_skeleton_description		A monster consisting of a set of bones	
+card_skeleton_name		Skeleton	
+card_slime_description		3 small slimes in a trench coat	
+card_slime_name		Slime	
+card_small_slime_description		A goodie-filled goo	
+card_small_slime_name		Small Slime	
+card_soil_description		A simple and slow way of growing Food	
+card_soil_name		Soil	
+card_spear_description		Stick with a pointy end	
+card_spear_name		Spear	
+card_stew_description		A hearty meal	
+card_stew_name		Stew	
+card_stick_description		Used to be part of a Tree	
+card_stick_name		Stick	
+card_stone_description		A simple resource	
+card_stone_name		Stone	
+card_stove_description		Cooks faster than a Campfire	
+card_stove_name		Stove	
+card_sword_description		An Iron Bar with a pointy end	
+card_sword_name		Sword	
+card_swordsman_name		Swordsman	
+card_temple_description		An important place of worship. It needs a mysterious artifact.	
+card_temple_name		Temple	
+card_travelling_cart_description		Give me 5 Coins and I'll give you a Card!	
+card_travelling_cart_name		Travelling Cart	
+card_treasure_chest_description		It's locked	
+card_treasure_chest_name		Treasure Chest	
+card_tree_description		Made of Wood and Sticks	
+card_tree_name		Tree	
+card_tree_status		Punching Tree	
+card_villager_description		A hard-working pioneer	
+card_villager_name		Villager	
+card_warehouse_description		Increases your Card Cap by 14	
+card_warehouse_name		Warehouse	
+card_wolf_description		It looks vicious	
+card_wolf_name		Wolf	
+card_wood_description		A simple resource	
+card_wood_name		Wood	
+cardtype_food		Food	
+cardtype_ideas		Ideas	
+cardtype_locations		Locations	
+cardtype_mobs		Mobs	
+cardtype_resources		Resources	
+cardtype_structures		Structures	
+idea_animalpen_status_0		Building an Animal Pen	
+idea_brick_status_0		Creating Brick	
+idea_brickyard_status_0		Building a Brickyard	
+idea_campfire_status_0		Starting a Campfire	
+idea_carving_status_0		Creating a Stick	
+idea_chicken_status_0		Chicken is brooding	
+idea_coinchest_status_0		Making a Coin Chest	
+idea_cookedmeat_status_0		Cooking Meat	
+idea_farm_status_0		Building a Farm	
+idea_frittata_status_0		Cooking Frittata	
+idea_fruitsalad_status_0		Making a Fruit Salad	
+idea_garden_status_0		Building a Garden	
+idea_growth_name		Growth	
+idea_growth_status_0		Growing a Berry Bush	
+idea_growth_status_1		Growing an Apple Tree	
+idea_growth_status_2		Growing Carrots	
+idea_growth_status_3		Growing Onions	
+idea_growth_status_4		Growing Potatoes	
+idea_growth_status_5		Growing Mushrooms	
+idea_house_status_0		Building a House	
+idea_ironweapons_status_0		Creating Sword	
+idea_ironweapons_status_1		Training Swordsman	
+idea_lumbercamp_status_0		Building a Lumber Camp	
+idea_market_status_0		Building a Market	
+idea_milkshake_status_0		Making a Milkshake	
+idea_mine_status_0		Building a Mine	
+idea_offspring_name		Offspring	
+idea_offspring_status_0		Creating Offspring	
+idea_offspring_status_1		Creating Puppy	
+idea_omelette_status_0		Cooking an Omelette	
+idea_planks_status_0		Creating Plank	
+idea_quarry_status_0		Building a Quarry	
+idea_sawmill_status_0		Building a Sawmill	
+idea_shed_status_0		Building a Shed	
+idea_smelting_status_0		Building a Smelter	
+idea_smelting_status_1		Smelting Iron	
+idea_stew_status_0		Cooking a Stew	
+idea_stove_status_0		Building a Stove	
+idea_temple_status_0		Building a Temple	
+idea_warehouse_status_0		Building a Warehouse	
+idea_woodenweapons_status_0		Creating a Spear	
+idea_woodenweapons_status_1		Training Militia	
+idea_woodenweapons_status_2		Training Explorer	
+ideagroup_basic		Basic	
+ideagroup_building		Building	
+ideagroup_cooking		Cooking	
+ideagroup_military		Military	
+ideagroup_resources		Resources	
+label_an_idea		An Idea	
+label_back		Back	
+label_back_to_menu		Back to menu	
+label_buy_packs_to_find_idea		Buy Packs to find this Idea	
+label_cant_be_sold		Can't be sold	
+label_card_not_found		Card not yet found	
+label_cardopedia	The in-game encyclopedia for cards	Cardopedia	
+label_cards_found		[found]/[total] Cards Found	
+label_cards_infobox		Your current maximum amount of Cards is [max_card_count]. You have [card_count] [cardicon] (does not include Coins)	
+label_cards_infobox_warning		You have too many [cardicon]. Get rid of Cards or you'll have to sell Cards at the end of the Moon!	
+label_clear_save		Clear Save	
+label_clear_save_confirm		Are you sure you want to clear your save?	
+label_coin_infobox_text		The total amount of Coins you have	
+label_coin_infobox_title		Coins	
+label_combat_speed		Attack Speed:	
+label_complete_more_quests		<one>Complete 1 more quest to unlock a new Pack!<other>Complete [remaining] more quests to unlock a new Pack!	
+label_complete_more_quests_for_pack		<one>Complete 1 more quest to unlock this Pack!<other>Complete [remaining] more quests to unlock this Pack!	
+label_completed_main_quest		You completed the Main Quest!	
+label_continue		Continue	
+label_continue_run		Continue Run (Moon [moon])	
+label_credits		Credits	
+label_damage		Damage:	
+label_drag_coins_to_buy_pack		Drag [cost][goldicon] here to buy this Pack	
+label_drop_to_sell		Drop to sell for [value]	
+label_eating		Eating..	
+label_end_of_moon		End of Moon [moon]	
+label_everyone_fed		Everyone was fed!	
+label_everyone_starved		Everyone starved to death!	
+label_feed_villagers		Feed Villagers	
+label_foil	"Term to describe a ""shiny"" card"	(foil)	
+label_fullscreen		Fullscreen: [on_off]	
+label_game_options		Game Options	
+label_game_over		Game Over	
+label_goblet_brought_to_temple		The Goblet was brought to the Temple	
+label_hit_chance		Hit Chance:	
+label_idea_fullname		Idea: [name]	
+label_ideas		Ideas	
+label_ideas_found		[found]/[total] Ideas Found	
+label_keep_playing		Keep playing to collect every Card!	
+label_languages_title		Languages	
+label_may_contain		May contain:	
+label_moon_length		Moon Length	
+label_moon_length_long		Long	
+label_moon_length_normal		Normal	
+label_moon_length_short		Short	
+label_moon_length_tooltip		The length of a Moon - longer is easier	
+label_new		New!	
+label_new_cards_found		<one>1 New Card Found<other>[count] New Cards Found	
+label_new_pack_unlocked		New Pack Unlocked!	
+label_new_run_confirm		Are you sure you want to start a new run? You'll lose the progress in your current run!	
+label_nice		Nice!	
+label_no		No	
+label_off		Off	
+label_okay		Okay	
+label_on		On	
+label_options		Options	
+label_pack_now_available		[pack] Pack is now available!	
+label_paused		Paused	
+label_peaceful_mode		Peaceful Mode	
+label_peaceful_mode_tooltip		No enemies in Peaceful Mode	
+label_quest		Quest	
+label_quest_completed		Quest Completed!	
+label_quest_not_possible_in_peaceful		Not possible in Peaceful Mode	
+label_quests		Quests	
+label_quests_completed		<one>1 Quest Completed<other>[count] Quests Completed	
+label_quit		Quit	
+label_resolution		Resolution: [width]x[height]	
+label_resolutions_title		Resolutions	
+label_seconds_format		[seconds]s	
+label_seconds_left_format		[seconds]s left	
+label_select_language		Select Language	
+label_sell		Sell	
+label_sell_cards_to_continue		Sell Cards to continue	
+label_sell_x_cards		<one>Sell 1 Card<other>Sell [count] Cards	
+label_sellbox_title		Selling Cards	
+label_sfx		SFX	
+label_stack_of_cards		Stack of Cards	
+label_start_new_moon		Start New Moon	
+label_start_new_run		Start New Run	
+label_start_of_moon		Start of Moon [moon]	
+label_start_run		Start Run	
+label_start_the_ritual		Start the Ritual	
+label_strange_portal_appeared		A Strange Portal Appeared	
+label_time_to_eat		Time to eat	
+label_timetext		Moon [moon]	
+label_timetext_peaceful		Moon [moon] - Peaceful Mode	
+label_toggle_panel_title		Toggle Panel	
+label_too_many_cards		<one>You have 1 Card too many!<other>You have [count] Cards too many!	
+label_travelling_cart_appeared		A Travelling Cart Appeared	
+label_uh_oh		Uh oh	
+label_undiscovered_cards		<one>1 undiscovered Card<other>[count] undiscovered Cards	
+label_well_done		Well done!	
+label_yes		Yes	
+label_you_killed_the_demon		You killed the Demon!	
+label_you_reached_moon		You reached Moon [moon]	
+pack_a_new_world_text	Name of your first Card Pack	A New World	
+pack_cuisine_text	Name of a Card Pack related to Cooking	Curious Cuisine	
+pack_explorers_text	Name of a Card Pack related to Exploring	Explorers	
+pack_farming_text	Name of a Card Pack related to Farming	Reap & Sow	
+pack_humble_beginnings_text	Name of a Card Pack related to Beginning	Humble Beginnings	
+pack_logic_reason_text	Name of a Card Pack related to Ideas	Logic and Reason	
+pack_order_structure_text	Name of a Card Pack related to Ideas	Order and Structure	
+pack_seeking_wisdom_text	Name of a Card Pack related to Ideas	Seeking Wisdom	
+quest_3_villagers_text		Get 3 Villagers	
+quest_bring_goblet_text		Bring the Goblet to the Temple	
+quest_build_3_houses_text		Have 3 Houses	
+quest_build_farm_text		Build a Farm	
+quest_build_house_text		Build a House	
+quest_build_temple_text		Build a Temple	
+quest_buy_booster_text	"Name used in ""pack_a_new_world_text"" key"	Buy the Humble Beginnings Pack	
+quest_buy_from_travelling_cart_text		Buy something from a Travelling Cart	
+quest_carve_stick_text		Make a Stick from Wood	
+quest_cook_frittata_text		Cook a Frittata	
+quest_cook_meat_text		Cook Raw Meat	
+quest_cook_omelette_text		Cook an Omelette	
+quest_create_brickyard_text		Build a Brickyard	
+quest_create_lumbercamp_text		Build a Lumber Camp	
+quest_create_offspring_text		Create Offspring	
+quest_create_quarry_text		Build a Quarry	
+quest_create_shed_text		Build a Shed	
+quest_explore_forest_text		Explore a Forest	
+quest_explore_mountain_text		Explore a Mountain	
+quest_find_catacombs_text		Find the Catacombs	
+quest_find_goblet_text		Find a mysterious artifact	
+quest_find_graveyard_text		Find a Graveyard	
+quest_get_a_dog_text		Get a Dog	
+quest_get_iron_bar_text		Get an Iron Bar	
+quest_have_gold_text		Have [count] Coins	
+quest_have_10_ideas_text		Have 10 Ideas	
+quest_have_10_stone_text		Have 10 Stone	
+quest_have_10_wood_text		Have 10 Wood	
+quest_have_food_text		Have [count] Food	
+quest_have_5_ideas_text		Have 5 Ideas	
+quest_kill_a_rat_text		Kill a Rat	
+quest_kill_a_skeleton_text		Kill a Skeleton	
+quest_kill_demon_text		Kill the Demon	
+quest_open_starter_pack_text		Open the Booster Pack	
+quest_open_treasure_chest_text		Open a Treasure Chest	
+quest_pick_berrybush_text		Drag the Villager on top of the Berry Bush	
+quest_reach_month_text		Reach Moon [count]	
+quest_second_villager_text		Get a Second Villager	
+quest_sell_at_market_text		Sell a Card at a Market	
+quest_sell_card_text		Sell a Card	
+quest_start_campfire_text		Start a Campfire	
+quest_train_explorer_text		Train an Explorer	
+quest_train_militia_text		Train Militia	
+quest_unlock_all_packs_text		Unlock all Packs	
+new_creating_graveyard		Creating Graveyard	
+new_selling_card		Selling [card]	
+new_portal_shaking		The Portal is shaking	
+new_growing_up		Growing up	
+card_aquarium_description		Can hold 5 Fish	
+card_aquarium_name		Aquarium	
+card_banana_description		Everyone's favorite yellow fruit	
+card_banana_name		Banana	
+card_banana_tree_description		Made of Bananas	
+card_banana_tree_name		Banana Tree	
+card_banana_tree_status		Punching Banana Tree	
+card_boat_status		Sailing Off	
+card_bottle_of_rum_description		Be careful: gets Villagers drunk!	
+card_bottle_of_rum_name		Bottle of Rum	
+card_bottle_of_water_description		A transparent bottle filled with transparent liquid	
+card_bottle_of_water_name		Bottle of Water	
+card_captain_description		An expert in naval travel, sails off faster	
+card_captain_name		Captain	
+card_cathedral_description		An important place of worship. It needs a relic.	
+card_cathedral_name		Cathedral	
+card_cave_description		Pirates used to keep their Treasure Maps in these..	
+card_cave_name		Cave	
+card_cave_status		Exploring Cave	
+card_ceviche_description		Sour fish, what's not to like	
+card_ceviche_name		Ceviche	
+card_charcoal_description		Functions as an antidote for Snake Poison	
+card_charcoal_name		Charcoal	
+card_chili_pepper_description		Nice and spicy	
+card_chili_pepper_name		Chili Pepper	
+card_coconut_description		It's a fruit, not a nut!	
+card_coconut_name		Coconut	
+card_coconut_piece_description		Tropical!	
+card_coconut_piece_name		Coconut Piece	
+card_coconut_tree_description		Made of Coconuts	
+card_coconut_tree_name		Coconut Tree	
+card_coconut_tree_status		Punching Coconut Tree	
+card_cod_name		Cod	
+card_coin_chest_description		A chest that can hold Coins	
+card_coin_chest_name		Coin Chest	
+card_composter_description		Turns 5 Food into Soil	
+card_composter_name		Composter	
+card_cooked_crab_meat_description		It's fancy	
+card_cooked_crab_meat_name		Cooked Crab	
+card_cooked_fish_description		I can taste the grill marks	
+card_cooked_fish_name		Grilled Fish	
+card_cotton_description		Nature's wool	
+card_cotton_name		Cotton	
+card_cotton_plant_description		Can be harvested for Cotton	
+card_cotton_plant_name		Cotton Plant	
+card_cotton_plant_status		Harvesting Cotton Plant	
+card_crab_description		Why does everything evolve into crabs?	
+card_crab_name		Crab	
+card_demon_lord_description		The final, final boss!	
+card_demon_lord_name		Demon Lord	
+card_distillery_description		Used for making booze	
+card_distillery_name		Distillery	
+card_driftwood_description		A bunch of wood that has washed ashore	
+card_driftwood_name		Driftwood	
+card_driftwood_status		Rummaging through Driftwood	
+card_eel_description		Electric sea snake	
+card_eel_name		Eel	
+card_empty_bottle_description		Made of Glass. Can be refilled!	
+card_empty_bottle_name		Empty Bottle	
+card_fabric_description		Fibres. together. strong.	
+card_fabric_name		Fabric	
+card_fish_trap_description		Needs a type of Food as bait	
+card_fish_trap_name		Fish Trap	
+card_fish_trap_status		Catching Fish	
+card_fisher_description		An expert at fishing. Fish fear him	
+card_fisher_name		Fisher	
+card_fishing_rod_description		Give it to a Villager to turn them into a Fisher	
+card_fishing_rod_name		Fishing Rod	
+card_fishing_spot_description		A body of water filled with Fish	
+card_fishing_spot_name		Fishing Spot	
+card_fishing_spot_status		Fishing	
+card_friendly_pirate_description		It has joined your side	
+card_friendly_pirate_name		Friendly Pirate	
+card_frigate_description		Can carry 25 Cards. Needs a Villager to start sailing. Can't carry Buildings	
+card_frigate_name		Frigate	
+card_glass_description		A transparent resource	
+card_glass_name		Glass	
+card_gold_bar_description		A very shiny, very valuable material	
+card_gold_bar_name		Gold Bar	
+card_gold_deposit_description		It contains Gold Ore	
+card_gold_deposit_name		Gold Deposit	
+card_gold_deposit_status		Punching Gold Deposit	
+card_gold_mine_description		An unlimited resource of Gold Ore	
+card_gold_mine_name		Gold Mine	
+card_gold_mine_status		Working in Gold Mine	
+card_gold_ore_description		Can be turned into Gold Bars	
+card_gold_ore_name		Gold Ore	
+card_goop_description		Smush, sludge, gunk: it's spoilt food	
+card_goop_name		Goop	
+card_greenhouse_description		A high-tech building for growing Food. Automatically replants crops.	
+card_greenhouse_name		Greenhouse	
+card_island_relic_description		Bring it to a Cathedral	
+card_island_relic_name		Island Relic	
+card_jungle_description		A forest known for books	
+card_jungle_name		Jungle	
+card_jungle_status		Exploring Jungle	
+card_kraken_description		Mad that you took its relic	
+card_kraken_name		Kraken	
+card_lime_description		Round and sour	
+card_lime_name		Lime	
+card_mackerel_name		Mackerel	
+card_mess_hall_description		Villagers will prioritize eating food that's on top of the Mess Hall	
+card_mess_hall_name		Mess Hall	
+card_message_in_a_bottle_description		It seems to have an Idea in it	
+card_message_in_a_bottle_name		Message in a Bottle	
+card_message_in_a_bottle_status		Opening Bottle	
+card_mine_description		An unlimited resource of Iron Ore	
+card_mine_name		Iron Mine	
+card_mine_status		Working in Iron Mine	
+card_momma_crab_description		Maybe you shouldn't have killed those Crabs?	
+card_momma_crab_name		Momma Crab	
+card_monkey_description		Would really like a Banana	
+card_monkey_name		Monkey	
+card_parrot_description		Talks like a human, flies like a bird. Makes Pirates happy	
+card_parrot_name		Parrot	
+card_pirate_boat_description		A boat full of Pirates	
+card_pirate_boat_name		Pirate Boat	
+card_pirate_boat_status		We'll leave you alone for [count] Coins..	
+card_pirate_description		A burly angry seaman	
+card_pirate_name		Pirate	
+card_raw_crab_meat_description		Should be cooked before consumption	
+card_raw_crab_meat_name		Raw Crab Meat	
+card_raw_fish_description		It's slippery	
+card_raw_fish_name		Raw Fish	
+card_rope_description		Long and fibrous	
+card_rope_name		Rope	
+card_rowboat_description		Can carry 1 Card. Needs a Villager to start sailing. Can't carry Buildings	
+card_rowboat_name		Rowboat	
+card_sacred_chest_description		It needs a Sacred Key to be opened	
+card_sacred_chest_name		Sacred Chest	
+card_sacred_key_description		Forged with Glass and Gold. Used for opening the Sacred Chest.	
+card_sacred_key_name		Sacred Key	
+card_sail_description		Used for making Boats	
+card_sail_name		Sail	
+card_sand_description		The main ingredient for a nice beach	
+card_sand_name		Sand	
+card_sand_quarry_description		An unlimited resource of Sand	
+card_sand_quarry_name		Sand Quarry	
+card_sand_quarry_status		Mining at Sand Quarry	
+card_sandstone_description		An alternative to Stone. Can be used for anything Stone is needed for.	
+card_sandstone_name		Sandstone	
+card_seafood_stew_description		Delicious Island stew	
+card_seafood_stew_name		Seafood Stew	
+card_seagull_description		An angry bird	
+card_seagull_name		Seagull	
+card_seaweed_description		Salad of the sea	
+card_seaweed_name		Seaweed	
+card_shark_description		A type of big angry fish	
+card_shark_name		Shark	
+card_sheep_description		Fluffy!	
+card_sheep_name		Sheep	
+card_shell_chest_description		A chest that can hold Shells	
+card_shell_chest_name		Shell Chest	
+card_shell_description		The main currency on the Island	
+card_shell_name		Shell	
+card_sloop_description		Can carry 10 Cards. Needs a Villager to start sailing. Can't carry Buildings	
+card_sloop_name		Sloop	
+card_smelter_description		Processes various materials by smelting them	
+card_smelter_name		Smelter	
+card_smelter_status		Smelting	
+card_snake_description		A slithering, poisonous creature	
+card_snake_name		Snake	
+card_sugar_cane_description		It's candy flavored grass	
+card_sugar_cane_name		Sugar Cane	
+card_sugar_cane_status		Harvesting Sugar Cane	
+card_sugar_description		Very sweet!	
+card_sugar_name		Cane Sugar	
+card_sushi_description		A delicious treat	
+card_sushi_name		Sushi	
+card_tamago_sushi_description		Egg flavored sushi	
+card_tamago_sushi_name		Tamago Sushi	
+card_tentacle_description		Wiggle wiggle wiggle	
+card_tentacle_name		Tentacle	
+card_tiger_description		A very strong cat	
+card_tiger_name		Tiger	
+card_trained_monkey_description		Can help you out with chores. Turns back into a normal Monkey at the end of the Moon	
+card_trained_monkey_name		Trained Monkey	
+card_treasure_map_description		X marks the spot. Needs to be searched with a Villager	
+card_treasure_map_name		Treasure Map	
+card_treasure_map_status		Looking for Treasure	
+card_tuna_name		Tuna	
+card_wool_description		A soft resource	
+card_wool_name		Wool	
+cardtype_fish		Fish	
+cardtype_rumors		Rumors	
+empty	Intentionally left blank		
+idea_aquarium_status_0		Building Aquarium	
+idea_befriending_pirate_status		Befriending Pirate	
+idea_bottle_status_0		Making Bottle	
+idea_cathedral_status_0		Building Cathedral	
+idea_ceviche_status		Making Ceviche	
+idea_charcoal_status		Making Charcoal	
+idea_charcoal_status_0		Making Charcoal	
+idea_compass_status		Making Compass	
+idea_composter_status		Building Composter	
+idea_composting_status		Composting	
+idea_cooked_crab_meat_status_0		Cooking Crab Meat	
+idea_cooked_fish_status_0		Grilling Fish	
+idea_cracking_coconut_status		Cracking Coconut	
+idea_distillery_status		Building Distillery	
+idea_eating_charcoal		Removing Poison	
+idea_fabric_status		Making Fabric	
+idea_filling_bottle_of_water		Filling Bottle	
+idea_fish_trap_status		Building Fish Trap	
+idea_fishing_rod_status		Making Fishing Rod	
+idea_frigate_status0		Building a Frigate	
+idea_greenhouse_status_0		Building Greenhouse	
+idea_growth_name_status_10		Growing Chili Pepper	
+idea_growth_name_status_9		Growing Lime	
+idea_growth_status_6		Growing Banana Tree	
+idea_growth_status_7		Growing Coconut Tree	
+idea_growth_status_8		Growing Cotton Plant	
+idea_mess_hall_status		Building Mess Hall	
+idea_rope_status		Making Rope	
+idea_rowboat_status0		Building a Rowboat	
+idea_rum_status		Making Rum	
+idea_sacred_key_status0		Forging Sacred Key	
+idea_sail_status0		Making a Sail	
+idea_sand_quarry_status		Building Sand Quarry	
+idea_sandstone_status		Creating Sandstone	
+idea_seafood_stew_status_0		Cooking Seafood Stew	
+idea_shell_chest_status_0		Making Shell Chest	
+idea_sloop_status0		Building a Sloop	
+idea_smelting_glass_status		Creating Glass	
+idea_smelting_status_2		Smelting Gold	
+idea_smelting_status_3		Making Coin	
+idea_sushi_status		Making Sushi	
+idea_tamago_sushi_status		Making Tamago Sushi	
+idea_training_captain_status		Training Captain	
+idea_training_fisher_status		Training Fisher	
+idea_training_monkey_status		Training Monkey	
+ideagroup_fishing		Fishing	
+ideagroup_important		Important	
+ideagroup_island		Island	
+ideagroup_sailing		Naval	
+label_a_rumor		A Rumor	
+label_awakened_something		You awakened something..	
+label_awakened_the_kraken		It's a Kraken!	
+label_card_cap		Card Cap	
+label_complete_more_island_quests_for_pack		<one>Complete 1 more Island Quest to unlock this Pack!<other>Complete [remaining] more Island Quests to unlock this Pack!	
+label_everyone_on_island_dead		Everyone on the Island died	
+label_everyone_on_island_dead_text		Your cards will stay here for when you return	
+label_island_intro_1		Welcome to the Island	
+label_island_intro_2		While at the Island you won't have to take care of the Mainland	
+label_island_intro_3		You can go back to the Mainland at any time using the Rowboat	
+label_island_intro_4		The Rowboat can only carry a single card - other Boats allow you to bring more cards back and forth	
+label_island_intro_5		If all your Villagers die, you will be returned to the Mainland	
+label_island_intro_6		Good luck!	
+label_island_intro_pack_text		You got a pack for beating the Demon	
+label_island_intro_pack_title		Nice!	
+label_island_intro_title		The Island!	
+label_join_our_discord		Join our Discord	
+label_main_quests		Main Quests	
+label_momma_crab_appeared_text		She seems angry..	
+label_momma_crab_appeared_title		Momma Crab Appeared	
+label_no_ideas_yet		You haven't found any Ideas yet	
+label_one_villager_needs_to_stay		At least one Villager needs to stay on the Mainland	
+label_pirate_boat_appeared		A Pirate Boat appeared	
+label_quests_complete_more_to_see		Complete more quests to see the next ones	
+label_return_to_mainland		Return to Mainland	
+label_rumor_full		Rumor: [name]	
+label_sailing_off_title		Sail Off	
+label_save_game		<b>Save [save_index]</b> - [percentage] complete - last played [date]	
+label_save_games		Save Game	
+label_select_save		Select Save	
+label_side_quests		Side Quests	
+label_start_new_save		<b>Save [save_index]</b> - start new save	
+label_status_effect		Status: [status]	
+label_time		Time	
+label_you_killed_the_demon_lord		You killed the Demon Lord	
+pack_island_advanced_text		Advanced Archipelago	
+pack_island_cooking_text		Grilling and Brewing	
+pack_island_ideas1_text		Island of Ideas	
+pack_island_ideas2_text		Island Insights	
+pack_island_intro_text		The Island?	
+pack_island_locations_text		Enclave Explorers	
+pack_island1_text		Fresh Isle	
+pack_island2_text		On The Shore	
+quest_befriend_a_pirate_text		Befriend a Pirate	
+quest_bribe_pirate_boat_text		Bribe a Pirate Boat	
+quest_build_cathedral_text		Build a Cathedral on the Mainland	
+quest_build_composter_text		Build a Composter	
+quest_build_fish_trap_text		Build a Fish Trap	
+quest_build_greenhouse_text		Build a Greenhouse	
+quest_build_mess_hall_text		Build a Mess Hall	
+quest_build_rowboat_text		Build a Rowboat	
+quest_build_sloop_text		Build a Sloop	
+quest_catch_a_fish_text		Catch a Fish	
+quest_cook_crab_meat_text		Cook Crab Meat	
+quest_crack_coconut_text		Crack a Coconut	
+quest_cure_poison_text		Cure a Poisoned Villager	
+quest_drunk_villager_text		Get a Villager Drunk	
+quest_find_treasure_map_text		Find a Treasure Map	
+quest_find_treasure_text		Find Treasure	
+quest_forge_sacred_key_text		Forge Sacred Key	
+quest_get_2_bananas_text		Get 2 Bananas	
+quest_have_shells_text		Have [count] Shells	
+quest_island_relic_to_cathedral_text		Bring the Island Relic to the Cathedral	
+quest_kill_demon_lord_text		Kill the Demon Lord	
+quest_kill_kraken_text		Kill the Kraken	
+quest_kill_momma_crab_text		Kill Momma Crab	
+quest_make_ceviche_text		Make Ceviche	
+quest_make_fish_trap_text		Make a Fish Trap	
+quest_make_glass_text		Make Glass	
+quest_make_gold_bar_text		Make a Gold Bar	
+quest_make_rope_text		Make Rope	
+quest_make_rum_text		Make a Bottle of Rum	
+quest_make_sail_text		Make a Sail	
+quest_make_sandstone_text		Make Sandstone	
+quest_make_seafood_stew_text		Make a Seafood Stew	
+quest_make_sushi_text		Make Sushi	
+quest_open_message_in_a_bottle_text		Open a Message in a Bottle	
+quest_open_sacred_chest_text		Open the Sacred Chest	
+quest_poisoned_villager_text		Have a Poisoned Villager	
+quest_punch_driftwood_text		Punch some Driftwood	
+quest_train_a_fisher_text		Train a Fisher	
+quest_train_captain_text		Train a Captain	
+quest_unlock_all_island_packs_text		Unlock all Island Packs	
+questgroup_building		Construction	
+questgroup_cooking		Potluck	
+questgroup_exploration		Discovery	
+questgroup_fighting		Power & Skill	
+questgroup_island		Island Ambitions	
+questgroup_island_beginnings		Marooned	
+questgroup_island_combat		Enclave Encounters	
+questgroup_island_cooking		Island Grub	
+questgroup_island_mainquest		Mystery of the Island	
+questgroup_island_misc		Island Other	
+questgroup_mainquest		The Grand Scheme	
+questgroup_other		Other	
+questgroup_resources		Ways and Means	
+questgroup_starter		Welcome	
+questgroup_survival		Longevity	
+rumor_eel_bait_description		When using a Fish Trap, Banana can be used to catch Eel	
+rumor_eel_bait_name		Eel Bait	
+rumor_island_description		Gold and Glass can be found on the Island	
+rumor_island_name		The Island	
+rumor_shark_bait_description		When using a Fish Trap, Raw Meat can be used to catch Shark	
+rumor_shark_bait_name		Shark Bait	
+rumor_tuna_bait_description		When using a Fish Trap, Lime can be used to catch Tuna	
+rumor_tuna_bait_name		Tuna Bait	
+statuseffect_drunk_description		Decreases work speed, decreases hit chance, increases max damage	
+statuseffect_drunk_lore		Enjoy responsibly	
+statuseffect_drunk_name		Drunk	
+statuseffect_poison_description		Deals damage every 60s	
+statuseffect_poison_lore		Dangerous poison runs through their veins, they need an antidote as soon as possible	
+statuseffect_poison_name		Poisoned	
+statuseffect_spoiling_description		Will turn into Goop after 1 Moon	
+statuseffect_spoiling_lore		Left out in the sun for a bit too long	
+statuseffect_spoiling_name		Spoiling	
+statuseffect_stunned_description		Unable to attack for 5s	
+statuseffect_stunned_lore		That hit really hurt..	
+statuseffect_stunned_name		Stunned	
+statuseffect_wellfed_description		Increases work speed	
+statuseffect_wellfed_lore		The hearty meal did them well	
+statuseffect_wellfed_name		Well Fed	
+label_sailing_off_full		Sailing Off	
+language_dutch		Dutch	
+language_french		French	
+language_german		German	
+language_italian		Italian	
+language_polish		Polish	
+language_spanish		Spanish	
+credits_aran		Concept, programming, design	
+credits_lisa		Game art	
+credits_sokpop		Game by Sokpop	
+credits_local_heroes		Localisation	
+credits_special_thanks		Special Thanks	
+label_relic_brought_to_cathedral		The Relic was brought to the Cathedral	
+label_controls		Controls	
+control_time_1		1x Speed	
+control_time_2		5x Speed	
+control_time_3		0x Speed	
+control_time_pause		Pause Time	
+control_panel_collapse		Toggle Sidebar	
+control_zoom		Zoom	
+control_sell		Sell Card	
+control_time_toggle		Toggle Time	
+control_pause		Pause Game	
+control_grab		Grab	
+control_activate_UI		Activate UI	
+control_move		Move	
+control_snap_move		Snap Move	
+control_snap_cards		Snap Cards To Grid	
+label_keyboard_mouse		Keyboard & Mouse	
+label_controller		Controller	
+label_waiting_for_input		Waiting for input	
+label_sellbox_description		Drag Cards here to sell them. You can also use [action_sell] to sell cards.	
+label_toggle_panel_text	Controls can now be rebound, so that the parameters will be replaced with the appropriate key	Press this button or press [action_panel_collapse] to toggle the Quests and Ideas Tab	
+label_auto_pause_controller		Automatically pause time when dragging cards (controller):	
+label_auto_pause_keyboardmouse		Automatically pause time when dragging cards (keyboard):	
+label_binding	Used when rebinding a control to a key	Assigning [control]	
+label_accessibility		Accessibility	
+language_portuguese		Brazilian Portuguese	
+language_chinese		Chinese	
+language_japanese		Japanese	
+language_korean		Korean	
+label_progress_stored		Progress will be saved	
+label_go_to_island_prompt		Are you sure you want to travel to the Island? This will first end the current Moon and feed your Villagers	
+label_return_to_mainland_prompt		Are you sure you want to travel back to the Mainland? This will first end the current Moon and feed your Villagers	
+label_not_enough_food_before_sailing		You need to have enough Food for your Villagers before you can sail off	
+idea_growth_status_11		Growing Seaweed	
+card_market_description		Can be used to sell Cards for more than usual	
+attackdamage_veryweak		Very Weak	
+attackdamage_weak		Weak	
+attackdamage_normal		Normal	
+attackdamage_strong		Strong	
+attackdamage_verystrong		Very Strong	
+attackdamage_extremelystrong		Extremely Strong	
+attackspeed_veryslow		Very Slow	
+attackspeed_slow		Slow	
+attackspeed_normal		Normal	
+attackspeed_fast		Fast	
+attackspeed_veryfast		Very Fast	
+attackspeed_extremelyfast		Extremely Fast	
+card_amulet_of_forest_description		You feel the healing power of nature running through you	
+card_amulet_of_forest_name		Forest Amulet	
+card_amulet_of_mountain_description		It grounds you	
+card_amulet_of_mountain_name		Mountain Amulet	
+card_archer_description		Afraid to get too close	
+card_archer_name		Archer	
+card_axe_description		For chopping wood and monsters	
+card_axe_name		Axe	
+card_bear_claw_description		Cheap Wolverine knockoff	
+card_bear_claw_name		Bear Claw	
+card_blowpipe_description		Blow as hard as you can	
+card_blowpipe_name		Blowpipe	
+card_blunderbuss_description		Watch out! Could blow up in your own face	
+card_blunderbuss_name		Blunderbuss	
+card_bone_spear_description		Intimidating version of a regular Spear	
+card_bone_spear_name		Bone Spear	
+card_bone_staff_description		A bone with special abilities	
+card_bone_staff_name		Bone Staff	
+card_boomerang_description		Always comes back to you	
+card_boomerang_name		Boomerang	
+card_bow_description		Makes you feel like Robin Hood	
+card_bow_name		Bow	
+card_broken_bottle_description		Cut out for the job	
+card_broken_bottle_name		Broken Bottle	
+card_builder_description		Way faster at Building	
+card_builder_name		Builder	
+card_bunny_hat_description		It's adorable!	
+card_bunny_hat_name		Rabbit Hat	
+card_chainmail_armor_description		A medieval era classic	
+card_chainmail_armor_name		Chainmail Armor	
+card_club_description		Not used for playing baseball	
+card_club_name		Club	
+card_crab_scale_armor_name		Crab Scale Armor	
+card_crossbow_description		A gun for arrows	
+card_crossbow_name		Crossbow	
+card_dark_amulet_description		Its dark force makes you stronger	
+card_dark_amulet_name		Dark Amulet	
+card_dark_elf_description		Emo version of a regular Elf	
+card_dark_elf_name		Dark Elf	
+card_demon_sword_description		An excellent blade used by the Demon himself	
+card_demon_sword_name		Demon Sword	
+card_elf_archer_description		Elves are the best archers	
+card_elf_archer_name		Elf Archer	
+card_elf_description		Does not work for Santa Claus anymore	
+card_elf_name		Elf	
+card_enchanted_shroom_description		It's a magic shroom	
+card_enchanted_shroom_name		Enchanted Shroom	
+card_ent_description		A talking and walking tree	
+card_ent_name		Ent	
+card_feral_cat_description		Does it have rabies? Probably!	
+card_feral_cat_name		Feral Cat	
+card_fire_cloak_description		It's lit	
+card_fire_cloak_name		Fire Cloak	
+card_frog_helmet_description		Grants you frog powers	
+card_frog_helmet_name		Frog Helmet	
+card_frog_man_description		A man made of frogs	
+card_frog_man_name		Frog Man	
+card_ghost_description		Only shows up on low quality photos	
+card_ghost_name		Ghost	
+card_giant_snail_description		The French would go crazy for this one	
+card_giant_snail_name		Giant Snail	
+card_goblin_archer_description		A more talented regular Goblin	
+card_goblin_archer_name		Goblin Archer	
+card_goblin_hat_description		Goblin fashion is outdated	
+card_goblin_hat_name		Goblin Hat	
+card_goblin_shaman_description		Keeps the other Goblins happy	
+card_goblin_shaman_name		Goblin Shaman	
+card_gold_chestplate_description		Slightly overdressed for the event	
+card_gold_chestplate_name		Golden Chestplate	
+card_hammer_description		Slow and blunt but packs a punch	
+card_hammer_name		Hammer	
+card_helmet_description		It goes on top of your head. Great for cycling	
+card_helmet_name		Helmet	
+card_horned_helmet_description		Useful for strong headbuts	
+card_horned_helmet_name		Horned Helmet	
+card_iron_shield_description		A strong defense against hard blows	
+card_iron_shield_name		Iron Shield	
+card_kraken_tooth_axe_description		Left for the tooth fairy, you took it instead	
+card_kraken_tooth_axe_name		Kraken Tooth Axe	
+card_leather_tunic_description		Armor made from the finest leather	
+card_leather_tunic_name		Leather Tunic	
+card_lumberjack_description		Way faster at harvesting Wood	
+card_lumberjack_name		Lumberjack	
+card_mage_description		A post-grad Wizard	
+card_mage_name		Mage	
+card_magic_blade_description		An ordinary sword that glitters	
+card_magic_blade_name		Magic Blade	
+card_magic_broom_description		You took it from some Old Lady	
+card_magic_broom_name		Magic Broom	
+card_magic_dust_description		It looks like glitter	
+card_magic_dust_name		Magic Dust	
+card_magic_ring_description		Once it slides on your finger it grants you magic powers	
+card_magic_ring_name		Magic Ring	
+card_magic_staff_description		A long, enchanted rod	
+card_magic_staff_name		Magic Staff	
+card_magic_tome_description		An old book with spells in it	
+card_magic_tome_name		Magic Tome	
+card_magic_wand_description		A simple magic weapon	
+card_magic_wand_name		Magic Wand	
+card_merman_description		Half man, half mer	
+card_merman_name	It's the male version of a Mermaid	Merman	
+card_mimic_description		It almost got me	
+card_mimic_name		Mimic	
+card_miner_description		Way faster at harvesting Rock, Gold & Iron	
+card_miner_name		Miner	
+card_morning_star_description		Spikes on a stick	
+card_morning_star_name		Morning Star	
+card_mosquito_description		He even hates himself	
+card_mosquito_name		Mosquito	
+card_ninja_description		Silent and deadly	
+card_ninja_name		Ninja	
+card_ogre_description		Big and chunky	
+card_ogre_name		Ogre	
+card_orc_wizard_description		Mean and green	
+card_orc_wizard_name		Orc Wizard	
+card_pickaxe_description		A stick with two pointy ends	
+card_pickaxe_name		Pickaxe	
+card_pirate_hat_description		Useful for dress up parties	
+card_pirate_hat_name		Pirate Hat	
+card_pirate_sword_description		Designed for swashbucklers	
+card_pirate_sword_name		Pirate Sabre	
+card_quiver_description		Makes you more efficient	
+card_quiver_name		Quiver	
+card_rat_crown_description		Turn into the King of the Rats	
+card_rat_crown_name		Rat Crown	
+card_skull_helmet_description		Kinda messed up	
+card_skull_helmet_name		Skull Helmet	
+card_slingshot_description		Very inaccurately hurl rocks at enemies	
+card_slingshot_name		Slingshot	
+card_smithy_description		A building used for creating better weapons	
+card_smithy_name		Smithy	
+card_spiked_plank_description		For tough construction workers	
+card_spiked_plank_name		Spiked Plank	
+card_stable_portal_name		Stable Portal	
+card_stable_portal_status		Entering the Portal	
+card_staff_of_fear_description		Very scary!!	
+card_staff_of_fear_name		Staff of Fear	
+card_strange_portal_description		It looks threatening. I wonder if we can enter it?	
+card_strange_portal_name		Strange Portal	
+card_throwing_star_description		Fast and accurate, ninjas love them	
+card_throwing_star_name		Throwing Stars	
+card_tiger_fur_coat_description		Trashy but at least it makes you feel strong	
+card_tiger_fur_coat_name		Tiger Fur Coat	
+card_warrior_description		A Villager who goes to the gym	
+card_warrior_name		Warrior	
+card_wicked_witch_description		I liked her more when she was still a regular Old Lady	
+card_wicked_witch_name		Wicked Witch	
+card_wicked_witch_name_2		Old Lady	
+card_wizard_description		A villager with glitter	
+card_wizard_name		Wizard	
+card_wizard_robe_description		It's like a magical snuggie	
+card_wizard_robe_name		Wizard Robe	
+card_wolf_head_description		Perfect for furries	
+card_wolf_head_name		Wolf Head	
+card_wooden_shield_description		A basic defense against hard blows	
+card_wooden_shield_name		Wooden Shield	
+cardtype_equipable		Equipment	
+control_toggle_inventory		Open Inventory	
+credits_wouter		Programming	
+defence_veryweak		Very Weak	
+defence_weak		Weak	
+defence_normal		Normal	
+defence_strong		Strong	
+defence_verystrong		Very Strong	
+defence_extremelystrong		Extremely Strong	
+hitchance_verysmall		Very Small	
+hitchance_small		Small	
+hitchance_normal		Normal	
+hitchance_high		High	
+hitchance_veryhigh		Very High	
+hitchance_extremelyhigh		Extremely High	
+idea_amulet_of_forest_status_0		Crafting Amulet of the Forest	
+idea_amulet_of_mountain_status_0		Crafting Amulet of the Mountain	
+idea_axe_status_0		Creating an Axe	
+idea_blowpipe_status_0		Creating a Blowpipe	
+idea_blunderbuss_status_0		Creating a Blunderbuss	
+idea_bone_spear_status_0		Creating a Bone Spear	
+idea_bone_staff_status_0		Creating a Bone Staff	
+idea_boomerang_status_0		Creating a Boomerang	
+idea_bow_status_0		Creating a Bow	
+idea_broken_bottle_status_0		Smashing a Bottle	
+idea_chainmail_armor_status_0		Creating Chainmail Armor	
+idea_club_status_0		Creating a Club	
+idea_crossbow_status_0		Creating a Crossbow	
+idea_gold_chestplate_status_0		Smithing a Chestplate	
+idea_growth_status_12		Growing Sugar Cane	
+idea_hammer_status_0		Creating a Hammer	
+idea_iron_shield_status_0		Smithing an Iron Shield	
+idea_magic_blade_status_0		Creating a Magic Blade	
+idea_magic_ring_status_0		Creating a Magic Ring	
+idea_magic_staff_status_0		Creating a Magic Staff	
+idea_magic_tome_status_0		Creating a Magic Tome	
+idea_magic_wand_status_0		Creating a Magic Wand	
+idea_pickaxe_status_0		Creating a Pickaxe	
+idea_slingshot_status_0		Creating a Slingshot	
+idea_smithy_status_0		Building a Smithy	
+idea_spiked_plank_status_0		Spiking a Plank	
+idea_stable_portal_status_0		Building a Stable Portal	
+idea_throwing_star_status_0		Creating a Throwing Star	
+idea_wizard_robe_status_0		Creating Wizard Robe	
+idea_wooden_shield_status_0		Creating Wooden Shield	
+label_base_combatlevel		Base Combat Level [level]	
+label_can_drop		Can drop:	
+label_cancel_the_ritual		Wait a minute...	
+label_combatlevel		Combat Level [level]	
+label_debug_cards	Does not need to be translated	Cards	
+label_debug_coin_chest	Does not need to be translated	Spawn full coin chest	
+label_debug_effects	Does not need to be translated	Status effects	
+label_debug_end_moon	Does not need to be translated	End current moon	
+label_debug_endless_moon	Does not need to be translated	Endless moon: [on_off]	
+label_debug_general	Does not need to be translated	General	
+label_debug_start_cities_run	Does not need to be translated	Start Cities Run	
+label_debug_reset_run	Does not need to be translated	Reset run vars	
+label_debug_scenario_demon	Does not need to be translated	Spawn the Demon	
+label_debug_scenario_demon_lord	Does not need to be translated	Spawn the Demon Lord	
+label_debug_scenario_island	Does not need to be translated	Go to the Island	
+label_debug_scenario_kraken	Does not need to be translated	Spawn the Kraken	
+label_debug_scenario_witch_forest	Does not need to be translated	Go to witch forest	
+label_debug_shortcut_copy	Does not need to be translated	Hover + C: Copy card	
+label_debug_shortcut_delete	Does not need to be translated	Hover + R: Remove/kill card	
+label_debug_shortcut_heal	Does not need to be translated	Hover + H: heal card	
+label_debug_shortcut_progress	Does not need to be translated	Hover + Z: Complete progress	
+label_debug_shortcut_status	Does not need to be translated	Hover + U: Remove status effects	
+label_debug_shortcuts	Does not need to be translated	Shortcuts	
+label_debug_spawn_enemies	Does not need to be translated	Spawn Enemies	
+label_debug_toggle_no_food	Does not need to be translated	Not using Food: [on_off]	
+label_debug_toggle_peaceful_mode	Does not need to be translated	Peaceful mode: [on_off]	
+label_debug_unlock_boosters	Does not need to be translated	Unlock all booster packs	
+label_debug_unlock_ideas	Does not need to be translated	Unlock all ideas	
+label_debug_unlock_quests	Does not need to be translated	Unlock all quests	
+label_defence		Defense	
+label_demo		Demo	
+label_demo_any_key_to_start		Press any key to start playing	
+label_demo_reset_warning		Demo will reset in [time]s, press any key to continue	
+label_equiping		Equipping [card]	
+label_everyone_in_forest_dead		You could not seek revenge	
+label_everyone_in_forest_dead_text		Strenghten up and try again!	
+label_extra_combat_stats		Extra Combat Stats: [on_off]	
+label_forest_fight		Get ready to fight!	
+label_forest_fight_wave_10		Get ready to fight the Wicked Witch!	
+label_forest_intro_1		You enter a Strange Dark Forest	
+label_forest_intro_2		An old lady appears!	
+label_forest_intro_3		Good day to you, traveler..	
+label_forest_intro_4		Now she's closer, she does not look like an Old Lady at all!	
+label_forest_intro_5		She's a Wicked Witch!	
+label_forest_intro_6		You've come to seek revenge, but you'll never defeat me!	
+label_forest_intro_title		The Dark Forest	
+label_forest_leave		You fled with your earnings	
+label_forest_lost		Pathetic, was that everything you've got?	
+label_forest_lost_2		All your villagers have fallen. You have to take your losses and fall back.	
+label_forest_lost_title		Your Villagers withered away	
+label_forest_resume		So you're back for more? You will never defeat me!	
+label_forest_resume_title		Back again?	
+label_forest_wave_10_end		How did this happen? I'll defeat you!	
+label_forest_wave_10_end2		Do you want to fight the Wicked Witch or leave the Forest?	
+label_forest_wave_end		You've beaten my minions, but I have plenty more!	
+label_forest_wave_end_leave		Flee the Forest	
+label_forest_wave_end_next_wave		Fight wave [wave]	
+label_forest_wave_end_wave_10		Fight the Wicked Witch	
+label_forest_wave_end2		Do you want to fight the next wave or run away?	
+label_forest_wave_endless_end		You've defeated the Wicked Witch, yet a dark force still lingers..	
+label_forest_wave_endless_end3		You can continue fighting to get more resources	
+label_forest_wave_title		Wave Defeated	
+label_framerate_120		120 FPS	
+label_framerate_30		30 FPS	
+label_framerate_60		60 FPS	
+label_framerate_cap		Framerate limit: [fps_cap]	
+label_framerate_unlimited		None	
+label_go_to_forest_prompt		Are you sure you want to travel through this Portal?	
+label_inventory		Inventory	
+label_not_enough_food_before_portal		You need to have enough Food for your Villagers before you can enter the Portal	
+label_taking_portal_full		Teleporting through Portal	
+label_taking_portal_title		Take the Portal	
+label_total_combatlevel		Total Combat Level [level]	
+quest_break_bottle_text		Break a Bottle	
+quest_build_smithy_text		Build a Smithy	
+quest_build_stable_portal_text		Build a Stable Portal	
+quest_craft_amulet_forest_text		Craft the Amulet of the Forest	
+quest_equip_archer_quiver_text		Equip an Archer with a Quiver	
+quest_fight_wave_six_text		Get to wave 6	
+quest_fight_wicked_witch_text		Fight the Wicked Witch	
+quest_find_dark_forest_text		Find the Dark Forest	
+quest_finish_first_wave_text		Complete the first wave	
+quest_plant_berry_bush_text		Grow a Berry Bush using Soil	
+quest_punch_rock_text		Mine a Rock using a Villager	
+quest_punch_tree_text		Harvest a Tree using a Villager	
+quest_train_archer_text		Train an Archer	
+quest_train_ninja_text		Train a Ninja	
+quest_train_wizard_text		Train a Wizard	
+quest_villager_combat_20_text		Have a Villager with Combat Level 20	
+quest_wear_bunny_hat_text		Make a Villager wear a Rabbit Hat	
+quest_wear_crab_scale_armor_text		Make a Villager wear Crab Scale Armor	
+questgroup_equipment		Strengthen Up	
+questgroup_forest_mainquest		The Dark Forest	
+rumor_combat_description		Some attack types are stronger against others. For example, Melee beats Magic!	
+rumor_combat_name		Combat	
+specialhit_bleeding_long		[chance]% chance to Bleed [target]	
+specialhit_crit_long		[chance]% chance to do a Critical Hit on [target]	
+specialhit_damage_long		[chance]% chance to Damage [target]	
+specialhit_frenzy_long		[chance]% chance to Frenzy [target]	
+specialhit_heal_long		[chance]% chance to Heal [target]	
+specialhit_heallowest_long		[chance]% chance to Heal friendly with lowest health	
+specialhit_invulnerable_long		[chance]% chance to make [target] Invulnerable	
+specialhit_lifesteal_long		[chance]% chance to Lifesteal from [target]	
+specialhit_poison_long		[chance]% chance to Poison [target]	
+specialhit_stun_long		[chance]% chance to Stun [target]	
+statuseffect_bleeding_description		Deals damage every 2s for 10s	
+statuseffect_bleeding_lore		It's gushing out	
+statuseffect_bleeding_name		Bleeding	
+statuseffect_frenzy_description		Increases attack speed for 10s	
+statuseffect_frenzy_lore		They're enraged	
+statuseffect_frenzy_name		Frenzy	
+statuseffect_invulnerable_description		Can't be damaged for 10s	
+statuseffect_invulnerable_lore		A skin made of steel	
+statuseffect_invulnerable_name		Invulnerable	
+target_allenemy		all enemies	
+target_allfriendly		all friendlies	
+target_randomenemy		random enemy	
+target_randomfriendly		random friendly	
+target_self		self	
+target_target		target	
+cardtype_humans		Villagers	
+label_food_infobox		Every Moon you need [required_food_count] [foodicon] to feed your Villagers. You currently have [food_count] [foodicon]	
+label_food_infobox_warning		Get [foodicon] so you won't lose your Villagers!	
+label_starving_humans		<one>There is not enough Food.. 1 Villager will starve of Hunger<other>There is not enough Food.. [count] Villagers will starve of Hunger	
+card_tuna_description		Chunky fish	
+card_cod_description		Wet and slippery fish	
+card_mackerel_description		Small fish	
+label_health		Max Health	
+label_wave		Wave [wave]	
+label_undiscovered_cards_tooltip		This pack still contains some undiscovered cards	
+label_undiscovered_cards_tooltip_title		Undiscovered Cards	
+rumor_dark_forest_name		Dark Forest	
+rumor_dark_forest_description		There's a hidden world behind the Strange Portal	
+pack_equipment_text	Name of a Card Pack related to Combat	The Armory	
+label_ui_scale		UI Scale: [scale]	
+label_ui_scale_100		100%	
+label_ui_scale_80		80%	
+label_ui_scale_60		60%	
+pack_combat_intro_text		New Weaponry	
+label_strange_portal_appeared_strong		It seems stronger than usual	
+label_itemlevel		Item Level [level]	
+label_health_info		Health: [health]/[maxhealth]	
+card_rare_portal_name		Rare Portal	
+card_rare_portal_description		It looks threatening. I wonder if we can enter it?	
+label_forest_wave_endless_end2		You have finished the Dark Forest quest	
+label_max_villager_in_portal		You can only take 7 Villagers in the portal	
+card_stable_portal_description		A permanent portal to The Dark Forest. Can move 7 Cards. Time for revenge!	
+label_update_title_forest		The Dark Forest Update	
+label_update_text_forest	The # adds newlines to the text. Please keep them	The latest update is here! We've added a new area, made big changes to the combat in the game, and added several quality of life fixes!##This update brings a lot of changes to the base game. For the best experience you should start a new run!	
+card_militia_description		A villager that's ready to rumble.	
+card_swordsman_description		A villager that's ready to fight!	
+quest_pause_game_text		Pause using the play icon in the top right corner	
+card_university_name		University	
+card_university_description_long		A place of wisdom. Gives you a new Idea for every [max_count] Coins you gift them. [count]/[max_count] Coins given.	
+card_university_description_completed		A place of wisdom. You've discovered all their Ideas.	
+idea_university_status_0		Building a University	
+label_invention_fullname		Invention: [name]	
+card_lighthouse_name		Lighthouse	
+card_lighthouse_description		Increases the board size past the Warehouse limit	
+idea_lighthouse_status_0		Building a Lighthouse	
+card_resource_chest_name_override	"[resource] is replaced by the resource the chest is holding, e.g. ""Wood Chest"""	[resource] Chest	
+card_resource_chest_name		Resource Chest	
+card_resource_chest_description		A Chest for storing Resources	
+card_resource_chest_description_long		A Chest containing [amount] [resource] 	
+idea_resourcechest_status_0		Building Resource Chest	
+card_resource_magnet_name		Resource Magnet	
+card_resource_magnet_name_override		[resource] Magnet	
+card_resource_magnet_description		This card magically pulls cards of the same kind towards it	
+card_resource_magnet_description_long	"[resource] is replaced by the resource the magnet is pulling, e.g. ""Wood Magnet"""	Magnet is pulling [resource]	
+idea_resource_magnet_status_0		Building a Resource Magnet	
+card_heavy_foundation_name		Magic Glue	
+card_heavy_foundation_description		Sticks the stack on top of it to the board and prevents it from moving	
+idea_heavy_foundation_status_0		Crafting Magic Glue	
+card_conveyor_name		Crane	
+card_conveyor_description		Lifts cards from one place to another	
+card_conveyor_status		Lifting [resource]	
+idea_conveyor_status_0		Building a Crane	
+card_hotpot_name		Hotpot	
+card_hotpot_description		A replenishable source of Food that your Villagers can eat from. Add Food and they'll eat from it at the end of the Moon!	
+idea_hotpot_status_0		Building a Hotpot	
+card_trash_can_name		Dustbin	
+card_trash_can_description		Allows you to get rid of cards you don't want anymore	
+idea_trash_can_status_0		Building a Dustbin	
+card_trash_can_status_0		Getting rid of Card	
+label_update_text_chaos	The # adds newlines to the text. Please keep them	Here's a new minor update! We've added a bunch of cards that will make life in the mid-game and late-game a lot more manageable.##There are cards that will help you with food management, resource management and even some cards you can use to set up some simple automation!##We've also fixed some bugs, as well as added quality of life fixes. Enjoy!	
+label_update_title_chaos		Order & Structure	
+label_menu_sub_title		Order & Structure	
+card_breeding_pen_name		Breeding Pen	
+card_breeding_pen_description		A pen for breeding Animals	
+idea_breedingpen_status_0		Building a Breeding Pen	
+action_breeding_status		Breeding Animals	
+action_slaughtering_status		Butchering animal	
+card_slaughter_house_name		Butchery	
+card_slaughter_house_description		Sends animals on vacation	
+idea_slaughterhouse_status_0		Building a Butchery	
+card_wishing_well_name		Wishing Well	
+card_wishing_well_description_long		<one>It gives you a wish for every [count] coins. You currently have [amount] wish<other>It gives you a wish for every [count] coins. You currently have [amount] wishes	
+card_wishing_well_wish_1		Aah! My first wish	
+card_wishing_well_wish_2		I'm feeling lucky!	
+card_wishing_well_wish_5		Oh happy days!	
+card_wishing_well_wish_10		I really hope this Wishing Well does something?	
+card_wishing_well_wish_20		I sure am spending a lot of money on wishes	
+card_wishing_well_wish_50		This isn't going anywhere. I should stop buying wishes	
+idea_wishing_well_status_0		Building a Wishing Well	
+card_brickyard_status		Making a Brick	
+card_sawmill_status		Making a Plank	
+label_one_villager_needs_to_stay_island		At least one Villager needs to stay on the Island	
+card_university_status		Researching	
+label_demand_coins_text		I want to buy some nice items! Get me [amount] Coins before the end of the moon [monthFinished]	
+label_demand_garden_text		We are running low on food and I want my servants to make me more. Build a Garden for me before the end of the moon [monthFinished]	
+label_demand_olives_text		I would like to eat something... exotic. Fetch me [amount] Olives before the end of the moon [monthFinished]	
+label_demand_beer_text		I will be having guests over at the end of the moon [monthFinished]. Get me [amount] Beers before then	
+label_demand_fancy_dress_text		I want to impress a lady that I fancy. Get me a Fancy Dress before the end of the moon [monthFinished]	
+label_demand_royal_banquet_text		It's my birthday in a few moons and I want a big feast! Get me a Royal Banquet before the end of the moon [monthFinished]	
+label_demand_wool_socks_text		My feet are cold! Get me some Purple Socks before the end of the moon [monthFinished]	
+label_demand_wine_text		The wine cellar is empty! Get me 2 bottles of wine before the end of the moon [monthFinished]	
+label_demand_painting_text		My house isn't classy enough. Get me a Painting before the end of the moon [monthFinished]	
+label_missing_cards_more_text		and [amount] more	
+label_animal_die		Some Animals passed away	
+specialhit_sick_long		[chance]% chance to make [target] Sick	
+card_well_name		Well	
+card_well_description		An infinite source of Water	
+card_well_status_0		Building a Well	
+card_well_status_1		Getting Water	
+label_disable_paused_text		"Flashing ""Paused"": [on_off]"	
+label_placeholder_search	"Shown in ""search fields"" where players can input text"	Search	
+label_conflict_very_effective		Very effective	
+cutscene_happiness_food_text_0		You sold some Food...	
+cutscene_happiness_food_text_1		Sadness appears if you sell Food that Villagers can eat	
+label_altar_cutscene_mainland		You have already finished this Spirit World. Do you want to restart the Spirit World or summon its Curse here?	
+label_altar_run_board		Summon [curse]	
+label_altar_run_redo		Restart Spirit World	
+board_island_name		Island	
+board_main_name		Mainland	
+board_forest_name		Forest	
+board_greed_name		Greed	
+board_death_name		Death	
+board_happiness_name		Happiness	
+label_altar_cutscene_good_luck		You summoned the Curse, good luck!	
+cutscene_happiness_middle_text_0		You're doing a great job at keeping the village happy. We might be able to lift the Curse if you collect more!	
+label_name_villager_title		Name this Card	
+credits_Tumult		Cursed Worlds - sound effects	
+label_spirit_outro_0_greed		You lifted the Curse of Greed!	
+label_spirit_outro_0_death		You lifted the Curse of Death!	
+label_spirit_outro_0_happiness		You lifted the Curse of Sadness!	
+card_sad_event_description		Creates 1 Sadness for every 2 Villagers	
+card_sad_event_name		Sad Event	
+label_sad_event_appeared		Something sad is about to happen!	
+label_greed_demand_failed_fight_peaceful		I'll have to teach you a lesson... I'll take your Coins!!	
+label_shaman_intro_peaceful		You combined the Temple and Golden Goblet and got the idea for a Rowboat	
+card_archer_name_young		Young Archer	
+card_archer_name_old		Old Archer	
+card_builder_name_young		Young Builder	
+card_builder_name_old		Old Builder	
+card_lumberjack_name_young		Young Lumberjack	
+card_lumberjack_name_old		Old Lumberjack	
+card_mage_name_young		Young Mage	
+card_mage_name_old		Old Mage	
+card_miner_name_young		Young Miner	
+card_miner_name_old		Old Miner	
+card_ninja_name_young		Young Ninja	
+card_ninja_name_old		Old Ninja	
+card_warrior_name_young		Young Warrior	
+card_warrior_name_old		Old Warrior	
+card_wizard_name_young		Young Wizard	
+card_wizard_name_old		Old Wizard	
+card_explorer_name_young		Young Explorer	
+card_explorer_name_old		Old Explorer	
+card_militia_name_young		Young Militia	
+card_militia_name_old		Old Militia	
+card_swordsman_name_young		Young Swordsman	
+card_swordsman_name_old		Old Swordsman	
+card_fisher_name_young		Young Fisher	
+card_fisher_name_old		Old Fisher	
+card_friendly_pirate_name_young		Young Friendly Pirate	
+card_friendly_pirate_name_old		Old Friendly Pirate	
+card_trained_monkey_name_young		Young Trained Monkey	
+card_trained_monkey_name_old		Old Trained Monkey	
+card_jester_name_young		Young Jester	
+card_jester_name_old		Old Jester	
+label_youtube_dlc_title		Cursed Worlds - early access	
+label_youtube_dlc_text		This is a special early access build of the Stacklands Cursed Worlds DLC!##You can quickly get access to the new content by using our pre-made save game. This save game starts just after beating the game's first boss.##It's also possible to continue normally from where your current save is.##If you want to start from scratch, clear your save data from the settings menu.	
+label_load_run		Use the pre-made save game	
+label_exit		Continue normally	
+card_chicken_name_old		Old Chicken	
+card_cow_name_old		Old Cow	
+card_crab_name_old		Old Crab	
+card_horse_name_old		Old Horse	
+card_monkey_name_old		Old Monkey	
+card_parrot_name_old		Old Parrot	
+card_rabbit_name_old		Old Rabbit	
+card_sheep_name_old		Old Sheep	
+cutscene_death_middle_text_3		You did not get a new Villager in time...	
+cutscene_death_middle_text_4		Unfortunately, that means this village is doomed to come to an end..	
+label_greed_given	"This is shown under the royal's demand to indicate how many were already given, e.g. ""1/5 given"""	[given] given	
+credits_betatesting		Beta testing	
+quest_happiness_read_book_text		Read a Book	
+label_music		Music	
+label_click_this_pack		Open this Pack to get Cards!	
+card_coin_chest_description_long		A chest that can hold Coins. Interact to remove Coins. Contains [count]/[max_count][goldicon]	
+card_shell_chest_description_long		A chest that can hold Shells. Interact to remove Shells. Contains [count]/[max_count][shellicon]	
+label_toggle_inventory		Interact to toggle the inventory	
+card_altar_description		Used for summoning Spirits	
+card_altar_name		Altar	
+card_angry_royal_description		You have angered the most important man alive	
+card_angry_royal_name		Angry Royal	
+card_animal_cage_description		Can hold 1 Animal	
+card_animal_cage_name		Animal Cage	
+card_animal_cage_status_0		Building an Animal Cage	
+card_animal_eating_status		Eating Wheat	
+card_animal_old_name		Old [name]	
+card_animal_pen_status		[name] is producing [card]	
+card_baby_dragon_description		A magic dinosaur	
+card_baby_dragon_name		Baby Dragon	
+card_barrel_description		Turns wet mixtures into different wet mixtures	
+card_barrel_name		Barrel	
+card_barrel_status_0		Building a Barrel	
+card_beer_description		Water and wheat. Iconic duo.	
+card_beer_name		Beer	
+card_beer_status_0		Brewing Beer	
+card_book_description		Videogames, but for nerds	
+card_book_name		Book	
+card_book_status_0		Making a Book	
+card_bread_description		Who doesn't love it	
+card_bread_name		Bread	
+card_bread_status_0		Baking Bread	
+card_cat_description		Cute and mean	
+card_cat_name		Cat	
+card_charity_description		Generates 1 Happiness for every [amount] Coins you give it	
+card_charity_name		Charity	
+card_charity_status_0		Building a Charity	
+card_charity_status_active		Giving to Charity	
+card_cheese_description		It tastes like Gouda	
+card_cheese_name		Cheese	
+card_cheese_status_0		Making Cheese	
+card_corpse_name_long		Corpse of [name]	
+card_corpse_remove		Burying Corpse	
+card_crown_description		Pretend to be a Royal	
+card_crown_name		Crown	
+card_crown_status_0		Making a Crown	
+card_curse_happiness_description		Your Villagers need Happiness every [month] moons.	
+card_death_curse_description		Death, but no taxes. Villagers grow old and get sick.	
+card_death_curse_name		Curse of Death	
+card_death_recipe_description		Offering Raw Meat at the Altar will summon a spirit	
+card_death_recipe_name		World of Death	
+card_death_spirit_description		From a far away world, where Villagers get old and sick	
+card_death_spirit_name		Spirit of Death	
+card_display_spirit_dlc_description		Buy the Cursed Worlds DLC to get access to these cards	
+card_display_spirit_dlc_name		Cursed Worlds	
+card_dough_description		It passes the windowpane test	
+card_dough_name		Dough	
+card_dough_status_0		Making Dough	
+card_dragon_egg_description		A big speckled chicken egg	
+card_dragon_egg_name		Dragon Egg	
+card_dragon_egg_name_cracked		Cracked Dragon Egg	
+card_dragon_scale_armor_description		A nice piece of armor, but at what cost...	
+card_dragon_scale_armor_name		Dragonscale Armor	
+card_euphoria_description		A feeling or state of intense excitement and happiness	
+card_euphoria_name		Euphoria	
+card_euphoria_status_0		Creating Euphoria	
+card_fiend_description		A large, demon-like creature	
+card_fiend_name		Fiend	
+card_fish_chips_description		Not to be confused with Fish and Crisps	
+card_fish_chips_name		Fish and Chips	
+card_fish_chips_status_0		Making Fish and Chips	
+card_flour_description		Sandy. The main ingredient for Dough	
+card_flour_mill_description		Turns Wheat into Flour	
+card_flour_mill_name		Flour Mill	
+card_flour_name		Flour	
+card_fountain_of_youth_description		Lifts the Curse of Death	
+card_fountain_of_youth_name		Fountain of Youth	
+card_fountain_of_youth_status_0		Creating The Fountain of Youth	
+card_french_fries_description		Crispy Potato	
+card_french_fries_name		French Fries	
+card_french_fries_status_0		Frying French Fries	
+card_ghoul_description		A haunted spirit	
+card_ghoul_name		Ghoul	
+card_grape_description		It's just a fancy berry	
+card_grape_name		Grape	
+card_grape_pulp_description		A slurry of Grapes	
+card_grape_pulp_name		Grape Pulp	
+card_grape_pulp_status_0		Stomping Grapes	
+card_grape_vine_description		Stringy berry bush	
+card_grape_vine_name		Grape Vine	
+card_grape_vine_status		Harvesting Grapes	
+card_greed_curse_description		A Greedy Royal rules the land. Fulfill his demands.	
+card_greed_curse_name		Curse of Greed	
+card_greed_recipe_description		Offering the Altar a Coin will summon a spirit	
+card_greed_recipe_name		World of Greed	
+card_greed_spirit_description		From a far away world, where a Royal rules the land	
+card_greed_spirit_name		Spirit of Greed	
+card_happiness_curse_description		Everyone needs Happiness.	
+card_happiness_curse_name		Curse of Sadness	
+card_happiness_description		A single unit of Happiness. It keeps Villagers happy	
+card_happiness_name		Happiness	
+card_happiness_recipe_description		Offering Charcoal at the Altar will summon a spirit	
+card_happiness_recipe_name		World of Sadness	
+card_happiness_spirit_description		From a far away world where Villagers get sad	
+card_happiness_spirit_name		Spirit of Sadness	
+card_herbal_tea_description		Makes you feel better	
+card_herbal_tea_name		Herbal Tea	
+card_herbal_tea_status_0		Making Herbal Tea	
+card_herbal_tea_status_1		Curing Villager	
+card_herbs_description		Leaves with flavor	
+card_herbs_name		Herbs	
+card_hop_plant_status_0		Gathering Hop	
+card_horse_description		Weird looking cow	
+card_horse_name		Horse	
+card_human_poop_description		It's extra smelly	
+card_human_poop_name		Villager Poop	
+card_imp_description		A nasty lil creature	
+card_imp_name		Imp	
+card_jester_description		Fun at parties	
+card_jester_hat_description		Makes you look like a clown	
+card_jester_hat_name		Jester's Hat	
+card_jester_hat_status_0		Creating a Jester's Hat	
+card_jester_name		Jester	
+card_kitten_description		Fluffy cuteness	
+card_kitten_name		Kitten	
+card_merchant_description		Selling a Dragon Egg for 100 Coins!	
+card_merchant_description_2		Selling a Dragon Egg for 100 Coins! Still needs [coinsNeeded] Coins.	
+card_merchant_name		Merchant	
+card_museum_description		Turns Resources into Happiness, for each new Resource it's given	
+card_museum_name		Museum	
+card_museum_status_0		Building a Museum	
+card_naming_stone_description		No more forgetting who's who!	
+card_naming_stone_name		Naming Stone	
+card_naming_stone_status_0		Building a Naming Stone	
+card_old_cat_description		Grumpy sometimes	
+card_old_cat_name		Old Cat	
+card_old_dog_description		Still adorable	
+card_old_dog_name		Old Dog	
+card_old_villager_description		Life's flashing before their eyes	
+card_old_villager_name		Old Villager	
+card_olive_description		Mediterranean classic	
+card_olive_name		Olive	
+card_olive_oil_description		Tasty olive juice	
+card_olive_oil_name		Olive Oil	
+card_olive_oil_status_0		Making Olive Oil	
+card_olive_pulp_description		A slurry of olives	
+card_olive_pulp_name		Olive Pulp	
+card_olive_pulp_status_0		Stomping Olives	
+card_olive_tree_description		Can grow as old as 3,500 years	
+card_olive_tree_name		Olive Tree	
+card_olive_tree_status		Harvesting Olives	
+card_outhouse_description		Use it to get rid of Poop	
+card_outhouse_name		Outhouse	
+card_outhouse_remove_poop		Getting rid of Poop	
+card_outhouse_status_0		Building an Outhouse	
+card_oven_description		Used to bake all sorts of things	
+card_oven_name		Oven	
+card_painting_description		A drawing of a French Villager	
+card_painting_name		Painting	
+card_painting_status_0		Creating a Painting	
+card_pancakes_description		A big stack!	
+card_pancakes_name		Pancakes	
+card_pancakes_status_0		Making Pancakes	
+card_paper_description		Wet wood, thinly-sliced	
+card_paper_name		Paper	
+card_paper_status_0		Making Paper	
+card_petting_zoo_description		Generates Happiness for every Animal on top of it	
+card_petting_zoo_name		Petting Zoo	
+card_petting_zoo_status_0		Building a Petting Zoo	
+card_petting_zoo_status_active		Petting Animals	
+card_pizza_description		Hell yeah	
+card_pizza_name		Pizza	
+card_pizza_status_0		Making Pizza	
+card_plague_mask_description		You can't get Sick	
+card_plague_mask_name		Plague Mask	
+card_plague_mask_status_0		Making a Plague Mask	
+card_poop_cant_sell		You can't sell Poop when the Curse of Death is active	
+card_poop_slime_description		Slime made of Poop	
+card_poop_slime_name		Poop Slime	
+card_possessed_blade_description		Makes its wielder feel uneasy	
+card_possessed_blade_name		Possessed Blade	
+card_puppy_description		It's adorable	
+card_puppy_name		Puppy	
+card_rag_description		Ill-fitted piece of cotton	
+card_rag_name		Rag	
+card_roasted_fish_description		Browned nicely	
+card_roasted_fish_name		Fried Fish	
+card_roasted_fish_status_0		Frying Fish	
+card_roasted_meat_description		Crunchy on the outside	
+card_roasted_meat_name		Fried Meat	
+card_roasted_meat_status_0		Frying Meat	
+card_royal_archer_description		Trained on the castle grounds	
+card_royal_archer_name		Royal Archer	
+card_royal_banquet_description		Some very tasty foods combined	
+card_royal_banquet_name		Royal Banquet	
+card_royal_banquet_status_0		Preparing a Royal Banquet	
+card_royal_crown_description		Gives you strength and makes you greedy	
+card_royal_crown_name		Royal Crown	
+card_royal_description	nog even over nadenken	A spoiled brat	
+card_royal_description_demand_2		He demands that you bring him a Dragon Egg. Come back to him when you have it. 	
+card_royal_guard_description		Will give their life for the Royal	
+card_royal_guard_name		Royal Guard	
+card_royal_mage_description		A noble wizard	
+card_royal_mage_name		Royal Mage	
+card_royal_name		Royal	
+card_royal_tunic_description		Looking fancy on the battlefield	
+card_royal_tunic_name		Guard's Tunic	
+card_ruins_description		An ancient place. Requires [required_count] Villagers to explore.	
+card_ruins_name		Ruins	
+card_ruins_status		Exploring Ruins	
+card_sadness_demon_description		It was created by your Villagers' sadness	
+card_sadness_demon_name		Demon of Sadness	
+card_scythe_description		Useful for farming and chopping down monsters	
+card_scythe_name		Scythe	
+card_scythe_status_0		Making a Scythe	
+card_sewer_description		Automatically attracts Poop	
+card_sewer_name		Sewer	
+card_sewer_status_0		Building a Sewer	
+card_shaman_description		Talks to spirits	
+card_shaman_name		Shaman	
+card_shaman_status		Chanting	
+card_spirit_status_1		Leaving Spirit World	
+card_spring_description		A water source. Can also be used to fill Empty Bottles	
+card_spring_name		Spring	
+card_squire_description		He carries your shield	
+card_squire_name		Squire	
+card_squire_tunic_description		For wannabe knights	
+card_squire_tunic_name		Squire Tunic	
+card_squire_tunic_status_0		Creating a Squire Tunic	
+card_stomping_vat_description		Wash your feet first	
+card_stomping_vat_name		Stomping Vat	
+card_stomping_vat_status_0		Building a Stomping Vat	
+card_tavern_description		Turns Food into Happiness	
+card_tavern_name		Tavern	
+card_tavern_status_0		Serving Food	
+card_teenage_villager_description		The world right at your feet	
+card_teenage_villager_name		Young Villager	
+card_throwing_tomatos_description		The crowd did not like it	
+card_throwing_tomatos_name		Tomatoes	
+card_throwing_tomatos_status_0		Making Tomatoes	
+card_tomato_description		Red, round and fun to throw	
+card_tomato_name		Tomato	
+card_tomato_plant_description		Only eat the red parts	
+card_tomato_plant_name		Tomato Plant	
+card_tomato_plant_status		Picking Tomatoes	
+card_unhappiness_description		Makes Villagers sad##You need 1 extra Happiness for every Sadness card you have	
+card_unhappiness_name		Sadness	
+card_university_description		A place of wisdom. Gives you a new Idea for every [max_count] Coins you gift them.	
+card_water_description		Wet liquid	
+card_water_name		Water	
+card_water_status_0		Getting Water	
+card_wheat_description		It's grass for humans, but heaven for animals	
+card_wheat_name		Wheat	
+card_whip_description		Melee or ranged? Who knows	
+card_whip_name		Whip	
+card_wine_description		This grape juice is making me feel funny	
+card_wine_name		Wine	
+card_wine_status_0		Making Wine	
+card_winter_coat_description		Wonderful in winter	
+card_winter_coat_name		Winter Coat	
+card_winter_coat_status_0		Making Winter Coat	
+card_wishing_well_description		It grants you a wish for every [count] coins.	
+card_wool_dress_description		A dress to impress	
+card_wool_dress_name		Fancy Dress	
+card_wool_dress_status_0		Making a Fancy Dress	
+card_wool_socks_description		They have small cat paws on!	
+card_wool_socks_name		Purple Socks	
+card_wool_socks_status_0		Making Purple Socks	
+cardtype_happiness		Happiness	
+cardtype_spirits		Spirits & Curses	
+credits_cyber		Modding support	
+cursetype_death		Death	
+cursetype_greed		Greed	
+cursetype_happiness		Happiness	
+cutscene_death_end_text_0		I see you unlocked a new pack!	
+cutscene_death_end_text_1		I heard that this pack contains the fix for my curse	
+cutscene_death_middle_text_0		Looks like a Villager died of old age	
+cutscene_death_middle_text_1		It's always sad to see it happen. He is safe with me.	
+cutscene_death_middle_text_2		Be sure to get some new Villagers before they all die	
+cutscene_greed_end_text_0		A Dragon Egg? I hope he's ready for what's about to come	
+cutscene_greed_middle_text_0		This Greedy Royal thinks he can demand everything...	
+cutscene_greed_middle_text_1		I'm sure his demands will soon be his downfall	
+cutscene_happiness_end_text_0		I found a way to get rid of the curse	
+cutscene_happiness_end_text_1		Combine 3 Euphoria with the Curse of Sadness	
+cutscene_happiness_end_text_2		Here is the Idea for it	
+cutscene_happiness_middle_text_1		If we get more Happiness, we might be able to lift the Curse of Sadness	
+demand_fancy_dress_start_text		I am going to give this dress to a very pretty person!	
+demand_fancy_dress_success_text		The dress was a perfect gift, she loved it! I always have the greatest ideas!	
+greed_quest_demand_description_not_found		My Royal Advisor will instruct you on how to get what I need	
+greed_quest_demand_failed		You have not fulfilled my demands!	
+greed_quest_demand_failed_2		What is this? You have not provided me with what I requested	
+greed_quest_demand_failed_3		My request was very specific, but I do not see the goods	
+greed_quest_demand_success		Thanks. I didn't know you had it in you	
+greed_quest_demand_success_2		Ah, exactly what I needed...	
+greed_quest_demand_success_3		Delightful! Just what I ordered	
+greed_quest_demand_title		The Royal Demands!	
+idea_altar_status_0		Building an Altar	
+idea_death_curse_fix_description		Lifts the Curse of Death	
+idea_death_curse_fix_name		Lift the Curse of Death	
+idea_death_curse_fix_status_0		Lifting Curse of Death	
+idea_flour_mill_status_0		Building a Flour Mill	
+idea_flour_status_0		Grinding Wheat	
+idea_greed_curse_fix_description		Lifts the Curse of Greed	
+idea_greed_curse_fix_name		Lift the Curse of Greed	
+idea_greed_curse_fix_status_0		Lifting Curse of Greed	
+idea_growth_status_13		Growing Wheat	
+idea_growth_status_14		Growing Grape Vine	
+idea_growth_status_15		Growing Olive Tree	
+idea_growth_status_16		Growing Tomato Plant	
+idea_growth_status_17		Growing Tree	
+idea_growth_status_18		Growing Herbs	
+idea_happiness_curse_fix_description		Lifts the Curse of Sadness	
+idea_happiness_curse_fix_name		Lift Curse	
+idea_happiness_curse_fix_status_0		Lifting Curse of Sadness	
+idea_happiness_description		A quick and dirty way of getting Happiness	
+idea_happiness_name		Happiness	
+idea_happiness_result		A quick and dirty way of getting Happiness	
+idea_happiness_status_0		Admiring Coins	
+idea_happiness_status_1		Reading Book	
+idea_offspring_status_2		Creating a Kitten	
+idea_oven_status_0		Building an Oven	
+idea_remove_happiness			
+idea_tavern_status_0		Building a Tavern	
+idea_unhappiness_status_0		Making Villager sad	
+ideagroup_death		Death	
+ideagroup_greed		Greed	
+ideagroup_happiness		Happiness	
+label_advanced_combat		In Game Combat Stats: [on_off]	
+label_advanced_settings		Advanced Options	
+label_age_villagers		Happy birthday!	
+label_altar_cutscene_help_false		Ignore them	
+label_altar_cutscene_help_spirit_false		Please summon me again when you can help me	
+label_altar_cutscene_help_spirit_true		Thank you! Follow me to my world	
+label_altar_cutscene_help_true		Help them out	
+label_altar_cutscene_text		I'm the [spirit]. Can you help me in my world?	
+label_altar_cutscene_title		The Altar starts to rumble..	
+label_angry_villager		One of your Villagers became angry!	
+label_beat_curse_to_unlock		Lift this curse to start a new run with it enabled	
+label_buy_dlc_steam		Buy on Steam	
+label_cardopedia_all		All Cards	
+label_cardopedia_forest		Dark Forest	
+label_cardopedia_island		The Island	
+label_cardopedia_main		Original	
+label_cardopedia_modded		Mods	
+label_cardopedia_order		Order & Structure	
+label_cardopedia_spirit		Cursed Worlds	
+label_change_board_disabled_text		You can't change worlds in the Spirit World	
+label_change_board_disabled_title		Travel disabled	
+label_clicktodrag_enabled		Easy dragging	
+label_clicktodrag_tooltip		Allows you to drag cards with a right click.#Right click once to start dragging and right click again to stop dragging.	
+label_death_intro_1		Welcome to the World of Death	
+label_death_intro_2		Every few moons, our Villagers grow up	
+label_death_intro_3		After turning old, we pass away..	
+label_death_intro_4		We can also get sick, if there's too much poop around	
+label_death_intro_5		Can you lift our curse?	
+label_death_intro_title		Cursed by Death?	
+label_demand_collected		Off you go	
+label_demand_collected_2		I see! Off you go	
+label_demand_complete_start		Time to collect! I hope you have everything!	
+label_enable_curse_unknown		Curse of ???: Off	
+label_enable_death_curse		Curse of Death: [on_off]	
+label_enable_greed_curse		Curse of Greed: [on_off]	
+label_enable_happiness_curse		Curse of Sadness: [on_off]	
+label_enabled_curses		Enabled Curses	
+label_everyone_angry		Your whole village became angry!	
+label_everyone_spirit_world_dead		Everyone in the Spirit World died	
+label_everyone_spirit_world_dead_text		Returning to the Altar	
+label_everyone_spirit_world_dead_text_retry		You can revisit this Spirit World by using the Altar	
+label_final_demand_end_text		I was doubtful you would get me the Dragon Egg, but here you are!	
+label_final_demand_end_text_2		*A crack starts to appear in the shell*	
+label_final_demand_end_text_3		What's this? A crack in MY Dragon Egg? Get me a new one right away!	
+label_final_demand_end_text_4		The egg cracks again...	
+label_final_demand_end_text_5		Shame on you...	
+label_final_demand_end_text_6		The egg breaks open!	
+label_final_demand_end_text_7		It's a dragon!	
+label_final_demand_end_text_8		With one big swing the dragon takes out the Royal	
+label_final_demand_merchant		A Merchant appeared	
+label_final_demand_text		I have everything, but it's not enough...	
+label_final_demand_text_2		I want more food, more entertainment and more valuables!	
+label_final_demand_text_3		A dear friend of mine got a Phoenix Egg for his birthday... I want something better!	
+label_final_demand_text_4		There is a Merchant in town, and he's selling a Dragon Egg! Get it for me!	
+label_forest_update		The Dark Forest	
+label_fountain_text		The fountain prevented your Villagers from aging	
+label_fountain_title		Fountain of Youth	
+label_giving_happiness	nog over nadenken	Giving Happiness...	
+label_greed_demand_failed_fight		I'll have to teach you a lesson... Guards!!	
+label_greed_demand_failed_first_time		This is your first offence, so I will let it slide. Don't let it happen again!	
+label_greed_intro_1		Welcome to the World of Greed	
+label_greed_intro_2		This is the Greedy Royal...	
+label_greed_intro_3		Starting next moon, he will demand everything his heart desires	
+label_greed_intro_4		If you don't serve the Royal, he will send out his Royal Guards	
+label_greed_intro_5		Help me get rid of him to lift our curse!	
+label_greed_intro_title		World of Greed	
+label_greed_lift_curse		Luckily, the Dragon did not eat the Royal Crown	
+label_greed_lift_curse_2		The Royal Crown is the most valuable item in the whole world...	
+label_greed_lift_curse_3		However, you can't lift the curse without the Royal Crown..	
+label_greed_lift_curse_kill_royal		Wow, you managed to kill the Royal and he dropped his crown!	
+label_greed_new_villager		You are working too slow for my liking...	
+label_greed_new_villager_2		Here is some extra help... Now off you go!	
+label_greed_outro_wear_crown		You can't wear the Royal Crown, I won't allow it	
+label_happiness_infobox		At the end of the moon, you will need [required_happiness_count] [happinessicon] to keep your Villagers happy.	
+label_happiness_infobox_warning		Get [happinessicon] so their demons won't appear!	
+label_happiness_intro_1		Welcome to the World of Sadness	
+label_happiness_intro_2		Every moon, our Villagers need Happiness	
+label_happiness_intro_3		Different actions will give them Happiness	
+label_happiness_intro_4		If Villagers don't get enough Happiness, their demons will appear	
+label_happiness_intro_5		Can you lift our curse?	
+label_happiness_intro_title		World of Sadness	
+label_happiness_return_0		Do you want to return to the Mainland?	
+label_happiness_warning		You need [count] Happiness by the end of the next moon!	
+label_island_update		The Island	
+label_its_the_spirit		It's the spirit!	
+label_magic_lore		Channels a greater power	
+label_magic_title		Magic Attack	
+label_main_game		Original	
+label_melee_lore		Close and personal	
+label_melee_title		Melee Attack	
+label_menu_spirit_title		Cursed Worlds	
+label_menu_spirit_title_locked		Cursed Worlds out now!	
+label_missing_cards_text		The following cards in the run could not be loaded, likely due to a missing mod: [missing].##Would you like to continue the run anyway? Some cards may be missing.	
+label_missing_cards_title		Missing Cards	
+label_mod_update_type		Modded Card	
+label_mods		Mods	
+label_mods_enable_title		Toggle Mods	
+label_name_villager_text		Don't get too attached!	
+label_new_villager		A new Villlager	
+label_new_villager_death		A lonely Villager decided to settle in your village	
+label_new_villager_happiness		A new Villager heard about your happy village, and decided to settle here!	
+label_not_everyone_happy		Some Villagers did not get enough Happiness...	
+label_open_workshop		Open Workshop	
+label_random_name		Randomize	
+label_ranged_lore		Attack from a distance	
+label_ranged_title		Ranged Attack	
+label_return_from_spirit_world_text		Are you sure you want to leave this Spirit World? The world will reset when you leave.	
+label_return_from_spirit_world_title		Returning...	
+label_sadness_demon_text		You had too much Sadness!	
+label_sadness_demon_title		The Demon of Sadness appeared	
+label_screenshake_enabled		Screenshake enabled	
+label_shaman_appeared		A Shaman appeared out of nowhere	
+label_shaman_intro		Something feels off	
+label_shaman_leaving_text		The Shaman has told you everything he knows, and will leave this world	
+label_shaman_leaving_title		The Shaman is leaving	
+label_spirit_dlc_not_installed_text		Get access to the new content by purchasing the Cursed Worlds DLC	
+label_spirit_dlc_not_installed_title		The Cursed Worlds DLC	
+label_spirit_outro_1		Thanks for helping us	
+label_spirit_outro_2		You may now return to your old world	
+label_spirit_outro_3		Place anything you want to bring back on top of me...	
+label_spirit_outro_4		...and I'll bring you back	
+label_spirit_outro_choice_0		Continue here	
+label_spirit_outro_choice_1		Return to Mainland	
+label_spirit_update		Spirit Update	
+label_time_infobox	Controls can now be rebound, so that the parameters will be replaced with the appropriate key	The current time. There's [time_left] left in this moon.##Use [action_time_pause] to pause or use [action_time_toggle] to toggle between game speeds	
+label_try_attack_royal_description		Be careful...	
+label_try_attack_royal_description_4		He won't be friendly forever...	
+label_try_attack_royal_description_8		Last warning!	
+label_try_attack_royal_title		Anger the Royal	
+label_update_text_spirit		Thanks for purchasing the Cursed Worlds DLC!##Travel to three different worlds where villagers are haunted by tricky curses! Build up their village, then use new cards and card packs to lift the curse!##<i>DLC content is accessible after having completed the game's first boss fight.</i>	
+label_update_text_spirit_locked		We've just released the first Stacklands DLC! Travel to three different worlds, where villagers are haunted by tricky curses! Build up their village, then use new cards and card packs to lift the curse!##• 130+ new cards#• 50+ new quests#• 15 new card packs#• 3-5 hours of playtime 	
+label_update_title_spirit		The Cursed Worlds	
+label_villager_age_birthday		Some villagers grew older	
+label_villager_age_description		<one>Age: 1 Moon<other>Age: [age] Moons	
+label_villager_food_poisoning		[villager] got food poisoning...	
+label_villager_old		Old [villager]	
+label_villager_old_age_death		[villager] died of old age	
+label_villager_sick		[villager] got sick...	
+label_villager_young		Young [villager]	
+label_wow		Wow!	
+pack_death_animals_text		Animal Lives	
+pack_death_basic_text		Daily Life	
+pack_death_ideas_1_text		Wisdom of Life	
+pack_death_ideas_2_text		Deep Thoughts	
+pack_death_intro_text		Life Is Short	
+pack_death_locations_text		The End	
+pack_greed_basic1_text		Pure Greed	
+pack_greed_food_creatures_text		Noble Creatures	
+pack_greed_ideas1_text		Royal Inventor	
+pack_greed_ideas2_text		Courtyard Contraptions	
+pack_greed_intro_text		Greedy Intro	
+pack_greed_luxuries_text		Royal Luxuries	
+pack_happiness_creatures_text		Happy Animals	
+pack_happiness_food_text		Soul Food	
+pack_happiness_ideas1_text		Happy Thoughts	
+pack_happiness_ideas2_text		Happy Ever After	
+pack_happiness_intro_text		Happy Start	
+pack_happiness1_text		Simple Life	
+quest_3_succesfull_demands_text		Successfully finish 3 demands	
+quest_5_succesfull_demands_text		Successfully finish 5 demands	
+quest_8_succesfull_demands_text		Successfully finish 8 demands	
+quest_create_altar_text		Talk to the Shaman to gain secret knowledge	
+quest_death_befriend_cat_text		Befriend a Cat	
+quest_death_breed_cow_text		Breed a Cow	
+quest_death_build_lumbercamp_text		Build a Lumber Camp	
+quest_death_build_outhouse_text		Build an Outhouse	
+quest_death_create_fountain_of_youth_text		Build the Fountain of Youth	
+quest_death_cure_sick_villager_text		Cure a Sick Villager	
+quest_death_explore_ruins_text		Explore the Ruins	
+quest_death_find_cure_text		Figure out how to lift the curse	
+quest_death_find_fix_text		Lift the Curse of Death	
+quest_death_have_3_cows_text		Have 3 Cows	
+quest_death_have_3_poop_text		Have 3 Poop	
+quest_death_make_cheese_text		Make Cheese	
+quest_death_name_villager_text		Name a Villager	
+quest_death_second_villager_text		Get a second Villager	
+quest_death_third_villager_text		Make a baby before it's too late...	
+quest_death_unlock_packs_text		Unlock All Packs	
+quest_death_villager_old_age_dead_text		Have a Villager die of old age	
+quest_death_villager_old_text		Have an Old Villager	
+quest_enter_death_world_text		Visit the World of Death	
+quest_enter_greed_world_text		Visit the World of Greed	
+quest_enter_happiness_world_text		Visit the World of Sadness	
+quest_fight_royal_guard_text		Fight the Royal Guards	
+quest_find_death_world_text		Figure out how to summon the Spirit of Death	
+quest_find_greed_world_text		Figure out how to summon the Spirit of Greed	
+quest_find_happiness_world_text		Figure out how to summon the Spirit of Sadness	
+quest_first_demand_text		Wait for the Royal's first demand	
+quest_get_grape_text		Harvest your first Grape	
+quest_greed_brickyard_text		Build a Brickyard	
+quest_greed_find_fix_text		Lift the Curse of Greed	
+quest_greed_garden_text		Build a Garden	
+quest_greed_lumbercamp_text		Build a Lumber Camp	
+quest_greed_mine_text		Build a Mine	
+quest_greed_oak_barrel_text		Make a Barrel	
+quest_greed_olive_oil_text		Make Olive Oil	
+quest_greed_quarry_text		Build a Quarry	
+quest_greed_roasted_meat_text		Fry some Meat	
+quest_greed_sawmill_text		Build a Sawmill	
+quest_greed_smelter_text		Build a Smelter	
+quest_greed_stomping_vat_text		Build a Stomping Vat	
+quest_greed_wine_text		Make Wine from Grapes	
+quest_greed_wool_text		Get Wool from a Sheep	
+quest_happiness_admire_a_coin_text		Admire a Coin	
+quest_happiness_all_packs_text		Unlock all Happiness Packs	
+quest_happiness_bake_bread_text		Bake Bread	
+quest_happiness_bake_pizza_text		Make a Pizza	
+quest_happiness_build_charity_text		Build a Charity	
+quest_happiness_build_garden_text		Build a Garden	
+quest_happiness_build_museum_text		Build a Museum	
+quest_happiness_build_tavern_text		Build a Tavern	
+quest_happiness_create_flour_text		Create Flour	
+quest_happiness_find_fix_text		Lift the Curse of Sadness	
+quest_happiness_get_2_happiness_text		Have 2 Happiness	
+quest_happiness_have_1_unhappiness_text		Have 1 Sadness	
+quest_happiness_have_10_unhappiness_text		Have 10 Sadness	
+quest_happiness_have_5_unhappiness_text		Have 5 Sadness	
+quest_happiness_make_dough_text		Make Dough	
+quest_open_death_intro_pack_text		Open the pack	
+quest_open_happiness_intro_pack_text		Open the pack	
+quest_open_pack_text		Open your first pack	
+questgroup_death_mainquest		Life and death	
+questgroup_death_misc		Death Misc	
+questgroup_death_starter		The World of Death	
+questgroup_discover_spirits		Meet the Shaman	
+questgroup_greed_mainquest		Give me everything!	
+questgroup_greed_misc		Items fit for a Royal	
+questgroup_greed_starter		The World of Greed	
+questgroup_greed_thriving		Worthy Kingdom	
+questgroup_happiness_collecting		Fun Things	
+questgroup_happiness_cooking		Good Food	
+questgroup_happiness_mainquest		Keep 'em happy	
+questgroup_happiness_starter		The World of Sadness	
+questgroup_happiness_unhappy		So Sad	
+specialhit_anxious_long		[chance]% chance of making [target] anxious	
+statuseffect_angry_description		Angry Villagers will fight other Villagers	
+statuseffect_angry_lore		Has been sad for too long	
+statuseffect_angry_name		Angry	
+statuseffect_anxious_description		Decreases work speed a lot	
+statuseffect_anxious_lore		They feel ill at ease	
+statuseffect_anxious_name		Anxious	
+statuseffect_demand_description		Demands new cards every few moons	
+statuseffect_demand_lore		Always wants more	
+statuseffect_demand_name		Greedy	
+statuseffect_sick_description		Does [damage] damage every [time]	
+statuseffect_sick_lore		They're feeling ill.. There's too much Poop around!	
+statuseffect_sick_name		Sick	
+label_shaman_intro_demon		You defeated the demon, and got the idea for a Rowboat	
+label_shaman_intro_island		If you want to further develop your village, you can visit the Island.	
+label_beta_thanks		Thanks!	
+label_beta_text		Thanks for helping us playtest the Cursed Worlds DLC!##If you want to jump right in to the new content, you can select Continue Run and start just after the demon was defeated. You can also start a brand new run by selecting Start New Run.##If you want to continue using an old save, copy it over to:#[saveDirectory]###Have fun! If you run into any issues, please let us know in the Stacklands Playtesters Discord!	
+label_shaman_intro_cursed		If you want to learn more about visiting the Cursed Worlds you can talk to me	
+label_shaman_intro_title		The Shaman	
+card_cursed_wand_name		Cursed Wand	
+card_cursed_wand_description		It uses dark magic	
+label_magic_description		Magic is strong against Ranged, but weak against Melee	
+label_melee_description		Melee is strong against Magic but weak against Ranged	
+label_ranged_description		Ranged is strong against Melee, but weak against Magic	
+label_different_mods		This save file uses different mods than the currently loaded one. The game has to be restarted to fully reload the mods.	
+label_debug_need_villagers		Don't Need Villagers: [on_off]	
+label_restart_required		Restart Required	
+label_restart 		Restart	
+card_industrial_revolution_name		Industrial Revolution	
+card_industrial_revolution_description		Having a surplus of 25 food will trigger the Industrial Revolution!	
+card_ore_deposit_name		Ore Deposit	
+card_ore_deposit_description		Deposits Ore	
+card_worker_name		Worker	
+card_educated_worker_name		Educated Worker	
+card_worker_description		Working 9 to 5	
+card_educated_worker_description		Work smarter, not harder	
+card_lumber_deposit_name		Lumber Deposit	
+card_lumber_deposit_description		Lumbers in numbers	
+card_ore_deposit_status		Mining Ore	
+card_lumber_deposit_status		Gathering Lumber	
+card_farmland_name		Farmland	
+card_farmland_description		Gives Grain when harvested	
+card_farmland_status		Farming Food	
+card_muesli_name		Muesli	
+card_muesli_description		Grainy breakfast: the food of the future	
+pack_cities_ideas_text		Modern Solutions	
+pack_cities_basics_text		Precious Resources	
+card_industrial_smelter_name		Industrial Smelter	
+card_industrial_smelter_description		Used for smelting ores	
+card_industrial_smelter_status_0		Constructing an Industrial Smelter	
+card_apartment_name		Apartment	
+card_apartment_description		Houses [amount] Workers for cheap	
+card_apartment_free_space		Currently has [free] space(s)	
+card_apartment_status_0		Constructing an Apartment	
+card_water_wheel_name		Water Wheel	
+card_water_wheel_description		Generates energy from Water	
+card_water_wheel_status_0		Constructing a Water Wheel	
+card_copper_ore_name		Copper Ore	
+card_copper_ore_description		Orange looking rock	
+card_copper_bar_name		Copper Bar	
+card_copper_bar_description		Used for making advanced buildings	
+card_lightning_name		Lightning	
+card_lightning_description		Can smelt ores instantly	
+card_rain_name		Rain	
+card_rain_description		Can be harvested for Water	
+card_sunshine_name		Sunshine	
+card_sunshine_description		Better bring sunscreen!	
+card_wind_name		Wind	
+card_wind_description		If only you could utilize its energy somehow...	
+card_water_pump_name		Water Pump	
+card_water_pump_description		Pumps Water from the ground	
+card_water_pump_status		Pumping Water	
+card_water_pump_status_0		Constructing Water Pump	
+card_energy_status_0		Generating Energy	
+cardtype_energy		Energy	
+label_debug_no_energy		Not using Energy: [on_off]	
+statuseffect_no_energy_description		This device needs Energy. Go into the Energy View to connect it to the grid.	
+statuseffect_no_energy_lore	Electricity buzz	BzZZzzZZz	
+statuseffect_no_energy_name		Energy needed	
+pack_cities_intro_text		Industrial Revolution	
+statuseffect_no_workers_description		This building does not have enough Workers	
+statuseffect_no_workers_lore		Labor shortage?	
+statuseffect_no_workers_name		Workers needed	
+card_passive_energy_consumer_status		Consuming Energy	
+card_plastic_name		Plastic	
+card_plastic_description		Will be everywhere before you even know it	
+card_plastic_status_0		Making Plastic	
+label_worker_inventory		Workers	
+label_wellbeing		Wellbeing	
+card_gravel_deposit_name		Gravel Deposit	
+card_gravel_deposit_description		A deposit of Gravel	
+card_gravel_deposit_status		Gathering Gravel	
+card_water_deposit_name		Water Deposit	
+card_water_deposit_description		A large deposit of Water	
+card_water_deposit_status		Gathering Water	
+card_cement_name		Cement	
+card_cement_description		A wet mix for building structures	
+card_cement_status_0		Mixing Cement	
+card_lumber_name		Lumber	
+card_lumber_description		An essential building material	
+card_lumber_status_0		Sawing Lumber	
+card_ten_dollar_name		10[icon]	
+card_ten_dollar_description		A tenner	
+card_dollar_status_0		Converting money	
+card_twenty_dollar_name		20[icon]	
+card_twenty_dollar_description		Twenty buckaroos	
+card_fifty_dollar_name		50[icon]	
+card_fifty_dollar_description		More than 50 cent	
+card_hundred_dollar_name		100[icon]	
+card_hundred_dollar_description		To the moon!	
+pack_cities_deposit_text		Resource Deposit	
+quest_cities_welcome_text		Welcome to the city	
+quest_cities_open_pack_text		Open your first Cities Pack	
+quest_cities_make_shack_text		Make a Shack to house your Workers	
+questgroup_cities_starter		Start your City	
+label_wellbeing_infobox_miserable		The citizens are miserable! Turn things around, or lose the city...	
+label_wellbeing_infobox_unhappy		The citizens are unhappy! Get your wellbeing up by building landmarks	
+label_wellbeing_infobox_euphoric		The citizens are euphoric!	
+label_wellbeing_infobox_happy		The citizens are happy	
+label_wellbeing_infobox_normal		The citizens are neutral	
+label_wellbeing_infobox_gameover		The city is in shambles	
+card_worker_homeless_text		Homeless	
+card_creditcard_name		Credit Card	
+card_creditcard_description		Money storage	
+card_creditcard_status_0		Creating a Credit Card	
+questgroup_cities_automation		Keep it Tidy	
+card_creditcard_description_long		A card that holds money. Interact to withdraw money. Contains [count]/[max_count][icon]	
+card_pollution_name		Pollution	
+card_pollution_description		Leaves a nasty smell	
+quest_cities_make_treadmill_text		Make a Hamster Wheel	
+label_city_state_euphoric		Euphoric	
+label_city_state_happy		Happy	
+label_city_state_normal		Normal	
+label_city_state_unhappy		Unhappy	
+label_city_state_miserable		Miserable	
+label_city_state_gameover		Game Over	
+statuseffect_homeless_description		This Worker is homeless. Give it a home before the end of the moon in order to not lose wellbeing	
+statuseffect_homeless_lore		On the streets...	
+statuseffect_homeless_name		Homeless	
+card_lightning_status		Smelting Ores	
+card_rain_status		Collecting Water	
+card_grain_name		Grain	
+card_grain_description		Basic ingredient for food	
+card_factory_name		Factory	
+card_factory_description		The beating heart of the modern era	
+card_factory_status_0		Constructing a Factory	
+card_muesli_status_0		Preparing some Muesli	
+quest_cities_get_farmland_text		Build a Farmland	
+pack_cities_weather_text		Wild Weather	
+label_weather_report_text		Just in: there will be changing weather conditions...	
+label_weather_report_title		City News	
+card_factory_parts_name		Factory Parts	
+card_factory_parts_description		A small part of a big machine	
+card_factory_parts_status_0		Constructing Factory Parts	
+quest_cities_build_basic_factory_text		Fabricate Factory Parts	
+card_science_name		Science	
+card_science_description		The result of practicing the scientific method	
+card_science_status_0		Creating Science	
+card_uranium_name		Uranium	
+card_uranium_description		Handle carefully...	
+card_oil_name		Oil	
+card_oil_description		Nasty dinosaur goop	
+card_oil_rig_name		Oil Rig	
+card_oil_rig_description		Uses energy to drill for Oil	
+card_oil_rig_status_0		Building an Oil Rig	
+card_oil_rig_status_1		Extracting Oil	
+card_oil_power_plant_name		Oil Power Plant	
+card_oil_power_plant_description		Generates energy from Oil	
+card_oil_power_plant_status_0		Constructing an Oil Power Plant	
+card_nuclear_power_plant_name		Nuclear Power Plant	
+card_nuclear_power_plant_description		Uses Uranium to generate Energy	
+card_nuclear_power_plant_status_0		Constructing a Nuclear Power Plant	
+card_farmland_status_0		Watering the Farmland	
+card_farmland_status_1		Constructing a Farmland	
+label_toggle_worker_space		Interact to show the Workers in the building	
+label_worker		Workers	
+card_wind_turbine_name		Wind Turbine	
+card_wind_turbine_description		Automatically generates energy	
+card_wind_turbine_status_0		Constructing a Wind Turbine	
+card_electric_motor_name		Electric Motor	
+card_electric_motor_description		Spinning magnets	
+card_electric_motor_status_0		Constructing an Electric Motor	
+card_city_hall_name		City Hall	
+card_city_hall_description_old		Increases Card Cap by 1 for every 10 Money	
+card_city_hall_status_0		Constructing a City Hall	
+card_automatic_resources_name		Automatic Resources	
+card_automatic_resources_description		Infinite automation	
+card_lumber_mill_name		Tree Plantation	
+card_lumber_mill_description		An infinite source of Lumber	
+card_lumber_mill_status_0		Constructing a Tree Plantation	
+card_lumber_mill_status		Collecting Wood	
+card_gravel_pit_name		Gravel Pit	
+card_gravel_pit_description		An infinite source of Gravel	
+card_gravel_pit_status_0		Constructing a Gravel Pit	
+card_gravel_pit_status		Mining Gravel	
+card_ore_mine_status		Mining Ore	
+card_automatic_resources_rumor_name		Extraction	
+card_automatic_resources_rumor_description		Combine a Deposit, Factory Parts and a Worker.##For example, doing this with a Lumber Deposit will make a Tree Plantation	
+cutscene_cities_first_moon_title		A moon has passed	
+cutscene_cities_first_moon_text_0		The first moon has passed and the city's wellbeing has been updated	
+cutscene_cities_first_moon_text_1		Your goal is to increase the city's wellbeing. Don't let it get too low or you will lose the city...	
+label_end_of_moon_cities_gained		You have gained [amount] [icon] this moon	
+label_end_of_moon_cities_same		Your [icon] stayed the same this moon	
+label_end_of_moon_cities_lost		You have lost [amount] [icon] this moon	
+label_end_of_moon_cities_wellbeing		Wellbeing	
+label_dollar		Money	
+label_dollar_infobox		You currently have [amount] [icon]	
+label_requirement_take_card		Has [amount]x [card] in city:	
+label_requirement_take_dollars		Has [amount] Money in city:	
+label_requirement_take_food		Used [amount] Food:	
+label_requirement_has_housing		Has housing:	
+card_metal_scraps_name		Metal Scraps	
+card_metal_scraps_description		Rusty bits of metal	
+card_storage_container_name		Storage Container	
+card_storage_container_description		A place to store your resources. Contained cards don't count towards your Card Cap	
+card_storage_container_status_0		Constructing a Storage Container	
+card_treadmill_name		Hamster Wheel	
+card_treadmill_description		Generates energy using labor	
+card_treadmill_status_0		Constructing a Hamster Wheel	
+card_fancy_apartment_name		Luxury Apartment	
+card_fancy_apartment_description		Houses [amount] Workers. Currently has [free] space(s)	
+card_cinema_name		Cinema	
+card_cinema_description		Real kino only	
+card_cinema_status_1		Playing a movie	
+card_cinema_status_0		Constructing a Cinema	
+statuseffect_max_on_board_description		You've already built this landmark	
+statuseffect_max_on_board_lore		We don't need any more of those!	
+statuseffect_max_on_board_name		Max reached	
+pack_cities_ideas_2_text		Advanced Automation	
+quest_cities_automatic_resources_text		Make a Tree Plantation	
+quest_cities_get_oil_text		Drill for Oil	
+quest_cities_refine_oil_text		Make Plastic	
+quest_cities_industrial_smelter_text		Make an Industrial Smelter	
+card_tornado_name		Tornado	
+card_tornado_description		Damages buildings close to it	
+card_wildfire_name		Wildfire	
+card_wildfire_description		Sets buildings on fire	
+card_recycling_center_name		Recycling Center	
+card_recycling_center_description		Removes pollution over time	
+card_recycling_center_status_0		Constructing a Recycling Center	
+card_recycling_center_status_1		Recycling polluted materials	
+card_landfill_name		Landfill	
+card_landfill_description		Removes pollution from the city	
+card_landfill_description_long		Removes pollution from the city. Currently houses [current] pollution	
+card_landfill_status_0		Constructing a Landfill	
+label_requirement_has_pollution		Every [amount] pollution:	
+cutscene_cities_landfill_overflow_title		The Landfill is overflowing!	
+cutscene_cities_landfill_overflow_text_0		It seems like you overfilled the Landfill...	
+cutscene_cities_landfill_overflow_text_1		You will not be able to use it for a while...	
+card_overflowing_landfill_name		Overflowing Landfill	
+card_overflowing_landfill_description		It's kinda gross	
+card_storage_container_name_override		[resource] Container	
+card_storage_container_description_long		A Container containing [amount] [resource]	
+cutscene_cities_disaster_title		Uh oh!	
+cutscene_cities_disaster_text_0		A disaster just happened	
+cutscene_cities_disaster_text_1		Disasters will influence your game in different ways	
+cutscene_cities_disaster_text_2		Good luck!	
+card_academy_name		Academy	
+card_academy_status_0		Constructing an Academy	
+card_academy_status		Educating the Worker	
+card_trash_name		Trash	
+card_trash_description		Time for some dumpster diving	
+card_trash_status_1		Dumpster diving	
+label_requirement_on_active_board		In the city:	
+label_requirement		Requirements	
+statuseffect_no_educated_workers_description		This building does not have enough Educated Workers	
+statuseffect_no_educated_workers_lore		It's a tough job, but somebody's gotta do it!	
+statuseffect_no_educated_workers_name		Educated Workers needed	
+card_genius_name		Genius	
+card_genius_description		Rumored to have an IQ of 538	
+card_particle_collider_name		Particle Collider	
+card_particle_collider_description		Collides particles at very high speed	
+card_particle_collider_status_0		Constructing a Particle Collider	
+card_particle_collider_status_1		Colliding Particles	
+card_ufo_event_name		Crashed UFO	
+card_ufo_event_description		The government tried hiding it	
+cutscene_cities_event_ufo_title		Crash	
+cutscene_cities_event_ufo_text_0		It's an unidentified crashed object...	
+cutscene_cities_event_ufo_text_1		Maybe you can figure out some of its technology...	
+card_quantum_entangled_uranium_name		Quantum Matter	
+card_quantum_entangled_uranium_description		A highly unstable resource used in special machines	
+card_quantum_entangled_uranium_status_0		Entangling Uranium	
+statuseffect_dissolving_description		This resource will dissolve over time	
+statuseffect_dissolving_lore		It's highly unstable	
+statuseffect_dissolving_name		Dissolving	
+card_time_machine_name		Unknown Machine	
+card_time_machine_description		Needs a lot of charge before we know what it is	
+card_time_machine_status_0		Constructing an Unknown Machine	
+label_cardopedia_cities		2000	
+cardtype_event		Events	
+cardtype_disaster		Disasters	
+cardtype_weather		Weather	
+card_ufo_event_status_1		Gaining Science	
+card_gravel_name		Gravel	
+card_gravel_description		Coarse sand	
+pack_cities_oil_text		Black Gold	
+label_air_title		Air	
+label_foot_title		Foot	
+label_armour_title		Armor	
+label_air_description		Air Vehicles are good against Armored Vehicles	
+label_foot_description		Foot Soldiers are good against Air Vehicles	
+label_armour_description		Armored Vehicles are good against Foot Soldiers	
+label_air_lore		I feel the need... the need for speed	
+label_foot_lore		Attention... Halt!	
+label_armour_lore		Tracks and Tires	
+card_goblin_fighter_jet_name		Goblin Warplane	
+card_goblin_fighter_jet_description		Goblins can fly now? Okay.	
+card_tank_name		Tank	
+card_tank_description		Long range safety	
+card_tank_status_0		Building a Tank	
+card_fighter_jet_name		Fighter Jet	
+card_fighter_jet_description		High in the sky	
+card_fighter_jet_status_0		Building a Fighter Jet	
+card_goblin_tank_name		Goblin Tank	
+card_goblin_tank_description		Metal Madness	
+card_goblin_soldier_name		Goblin Commando	
+card_goblin_soldier_description		Sneaky lil guy	
+card_soldier_name		Soldier	
+card_soldier_description		Fights to keep the city safe!	
+card_soldier_status_0		Training a Soldier	
+card_barrack_name		Barracks	
+card_barrack_description		Military building that turns Workers into Soldiers and produces vehicles	
+card_barrack_status_0		Constructing a Barracks	
+label_cities_game_over_title		City in Ruins	
+label_cities_game_over_text		Oh no, the city's wellbeing has dropped to zero	
+label_cities_game_over_text_1		The city is in ruins... Unfortunately, this city is lost	
+card_toy_name		Toy	
+card_toy_description		Lightyears ahead of the competition	
+card_toy_status_0		Constructing a Toy	
+quest_cities_barrack_text		Build a Barracks	
+card_event_goblin_attack_name		Goblin Conflict	
+card_event_goblin_attack_description		The Goblins are invading!	
+card_event_goblin_attack_status_1		A Goblin Attack is coming!	
+questgroup_cities_freedom		Freedom	
+questgroup_cities_power		Power up	
+quest_cities_soldier_text		Train a Soldier	
+quest_cities_tank_text		Build a Tank	
+quest_cities_jet_text		Build a Fighter Jet	
+questgroup_cities_mainquest		Progress your City	
+quest_cities_power_source_text		Build a Water Wheel	
+quest_cities_fancy_apartement_text		Build a Luxury Apartment	
+quest_cities_oil_power_text		Construct an Oil Power Plant	
+quest_cities_landfill_text		Build a Landfill	
+quest_cities_particle_collider_text		Build a Particle Collider	
+quest_cities_remove_trash_text		Remove the Trash	
+quest_cities_harvest_grain_text		Harvest Grain to feed your Workers	
+label_requirement_worker_amount_met		Has Workers:	
+card_dollar_split		Splitting Money	
+cutscene_cities_wellbeing_20_title		Wellbeing News	
+cutscene_cities_wellbeing_20_text		The city's wellbeing is getting higher.	
+cutscene_cities_wellbeing_20_text_1		Be careful though, as higher wellbeing will cause Goblins to attack!	
+cutscene_cities_wellbeing_10_title		Wellbeing Critical	
+cutscene_cities_wellbeing_10_text		The city's wellbeing is reaching a critical state	
+cutscene_cities_wellbeing_10_text_1		When your wellbeing gets to 0, the city will fall	
+label_sellbox_cities_title		Export Cards	
+label_sellbox_cities_description		Drag cards here to export them for Money	
+label_sell_cities		Export	
+card_cinema_status_2		The Workers loved the film!	
+ideagroup_automation		Automation	
+ideagroup_power		Energy	
+card_cities_iron_mine_name		Iron Mine	
+card_cities_iron_mine_description		Specialized in mining Iron Ore	
+card_cities_iron_mine_status_0		Constructing an Iron Mine	
+card_copper_mine_name		Copper Mine	
+card_copper_mine_description		Specialized in mining Copper Ore	
+card_copper_mine_status_0		Constructing a Copper Mine	
+card_add_worker_name		Recruiting	
+card_add_worker_description		Place 20 Money on a Shack to recruit a Worker	
+card_add_worker_status_0		Recruiting new Worker	
+card_cities_iron_mine_status_1		Mining for Iron Ore	
+card_copper_mine_status_1		Mining for Copper Ore	
+pack_cities_smeltables_text		Major Metals	
+card_art_gallery_name		Art Gallery	
+card_art_gallery_description		Converts 50 Money into an Artwork	
+card_art_gallery_status_0		Constructing an Art Gallery	
+card_art_gallery_status_1		Making Art	
+quest_cities_art_gallery_text		Make an Art Gallery	
+label_blueprint_wellbeing		Finished a new Recipe	
+label_wellbeing_euphoric		Euphoric	
+label_wellbeing_happy		Happy	
+label_wellbeing_normal		Normal	
+label_wellbeing_unhappy		Unhappy	
+label_wellbeing_miserable		Miserable	
+label_wellbeing_gameover		Game Over	
+label_city_wellbeing		City Wellbeing	
+label_hover_status_wellbeing		hover over the wellbeing boxes to see why	
+label_city_advisor		City Advisor	
+label_update_title_cities		Stacklands 2000	
+label_update_text_cities		Thanks for purchasing the Stacklands 2000 DLC!##The industrial revolution has come, and your small dwelling has turned into a large, present-day city! Manage your city's wellbeing, connect infrastructure, use factories to produce advanced materials, and more!##<i>DLC content is accessible after having enough food surplus on the Mainland.</i>	
+label_update_text_cities_locked		We've just released the Stacklands 2000 DLC! The industrial revolution has come, and your small dwelling has turned into a large, present-day city! Manage your city's wellbeing, connect infrastructure, use factories to produce advanced materials, and more.##- 180+ new cards#- 50+ new quests#- 15 new card packs#- 3-5 hours of playtime	
+label_menu_cities_title		The modern era DLC	
+label_menu_cities_title_locked		Modern era DLC out now!	
+label_cities_dlc			
+card_robot_worker_name		Robot Worker	
+card_robot_worker_status_0		Constructing a Robot Worker	
+label_requirement_take_dollars_on_top		Has [amount] Money on top:	
+card_ready_meal_name		Ready Meal	
+card_ready_meal_description		Microplastic flavored	
+card_ready_meal_status_0		Packaging a Meal	
+card_landfill_status_1		Composting [amount] Pollution	
+card_landfill_status_2		Resolving ecological disaster...	
+card_collector_name		Card Collector	
+card_collector_description		Works like a Magnet	
+card_collector_status_0		Constructing a Card Collector	
+card_uranium_mine_name		Uranium Mine	
+card_uranium_mine_description		Radio active, radio active	
+card_uranium_mine_status_0		Constructing an Uranium Mine	
+card_uranium_mine_status_1		Mining Uranium	
+card_uranium_deposit_name		Uranium Deposit	
+card_uranium_deposit_description		Contains small traces of Uranium	
+card_uranium_deposit_status_0		Collecting Uranium	
+quest_cities_academy_text		Build an Academy	
+label_goblin_take_land_title		Goblins	
+label_goblin_take_land_text		There are Goblins on your board!	
+label_goblin_take_land_text_1		For each Goblin outside of conflict you will lose wellbeing	
+label_goblin_conflict_title		Goblin Conflict	
+label_goblin_conflict_text		A group of Goblins entered your city to attack it	
+card_radar_station_name		Radar Station	
+card_radar_station_description		Detects attacks 3 moons before they happen	
+card_radar_station_status_0		Constructing a Radar Station	
+statuseffect_radar_description		Next conflict will happen at the end of moon [amount]	
+statuseffect_radar_lore		*bleep bleep*	
+statuseffect_radar_name		Conflict detected!	
+label_youtube_cities_dlc_title		Stacklands 2000 DLC - early access	
+label_youtube_cities_dlc_text		This is a special early access build of the Stacklands 2000 DLC!##You can quickly get access to the new content by using our pre-made save game.##It's also possible to continue normally from where your current save is.##If you want to start from scratch, clear your save data from the settings menu.	
+card_financial_crisis_name		Financial Crisis	
+card_financial_crisis_description		Credit default swaps gone wrong	
+label_financial_crisis_start		A Financial Crisis is about to hit the economy!	
+label_financial_crisis_text		You are in the middle of a Financial Crisis - all pack prices are at 150%!	
+card_earthquake_name		Earthquake	
+card_earthquake_description		Richter scale 6.3	
+label_earthquake_start		An Earthquake is happening!	
+label_cities_earthquake_text		Some structures were damaged...	
+label_cities_earthquake_text_1		Can be repaired with Money	
+label_cities_earthquake_title		It's an Earthquake	
+label_damaged_card_cost		Use [amount][icon] to repair	
+label_fire_card_cost		Use Water to extinguish	
+label_cities_wildfire_title		Wildfire!	
+label_cities_wildfire_text		A fire is roaming around the city...	
+label_cities_wildfire_text_1		Use Water to extinguish the fires	
+label_wildfire_start		Firewatch has spotted a Wildfire!	
+statuseffect_on_fire_description		This card is on fire and has to be extinguished with Water	
+statuseffect_on_fire_lore		Burn baby burn	
+statuseffect_on_fire_name		On fire	
+statuseffect_damaged_description		This card is damaged and needs to be repaired	
+statuseffect_damaged_lore		There's rubble everywhere	
+statuseffect_damaged_name		Damaged	
+card_time_machine_status_1		Spooling up the Time Machine	
+card_city_advisor_name		City Advisor	
+card_city_advisor_description		Advises you in the ways of the city	
+label_debug_battery		Spawn full Battery	
+label_info_worker_space_title		Housing Space	
+label_info_worker_space_text		You need [workers] [icon] to house your Workers. You currently have [space] [icon]	
+label_info_worker_space_text_1		Build more housing to avoid losing wellbeing.	
+cutscene_cities_first_energy_title		Energy Usage	
+cutscene_cities_first_energy_text_0		You need to connect this building to the grid if you want to use it	
+cutscene_cities_first_energy_text_1		Go to the Energy View using the dropdown at the top of the screen	
+cutscene_cities_first_energy_text_2		In this view you can connect energy producers to energy consumers. Here's an example of a producer	
+cutscene_cities_first_energy_text_3		Try connecting them by dragging one of the connectors	
+cutscene_cities_first_energy_text_4		That's it! Make sure you always have enough energy producers!	
+card_goblin_war_ship_name		Goblin War Ship	
+card_goblin_war_ship_description		Sails the seven seas	
+card_war_ship_name		War Ship	
+card_war_ship_description		Keeps the fish safe	
+card_war_ship_status_0		Constructing a War Ship	
+card_goblin_attack_helicopter_name		Goblin Chopper	
+card_goblin_attack_helicopter_description		Air support for Goblins	
+card_attack_helicopter_name		Attack Helicopter	
+card_attack_helicopter_description		Eye in the sky	
+card_attack_helicopter_status_0		Constructing an Attack Helicopter	
+card_sniper_name		Sniper	
+card_sniper_description		Farsighted soldiers	
+card_sniper_status_0		Training a Sniper	
+card_goblin_sniper_name		Goblin Marksman	
+card_goblin_sniper_description		Goblin with a long rifle	
+pack_cities_arms_text		Department of Defense	
+card_export_center_name		Export Center	
+card_export_center_description		Exports resources that are placed on top of it	
+card_export_center_status_0		Constructing an Export Center	
+card_export_center_status_1		Exporting Card	
+statuseffect_space_description		You have [amount] housing space left. Every Worker uses 1 housing space.	
+statuseffect_space_lore		The vastness of space	
+statuseffect_space_name		Housing Space	
+card_metal_scraps_status_0		Scrapping Metal	
+cutscene_cities_financial_crisis_title		Financial Crisis	
+cutscene_cities_financial_crisis_text		Tensions rise, and the global market has crashed	
+cutscene_cities_financial_crisis_text_1		All packs are 50% more expensive	
+quest_cities_build_mine_text		Build an Ore Mine	
+quest_cities_make_landfill_text		Build a Landfill	
+quest_cities_radar_station_text		Build a Radar Station	
+label_requirement_has_pollution_landfill		Has more than [amount] pollution in Landfill:	
+card_food_warehouse_name		Food Warehouse	
+card_food_warehouse_description		Stores Food	
+card_food_warehouse_status_0		Constructing a Food Warehouse	
+card_food_warehouse_description_long		Stores [amount] [food]	
+card_food_warehouse_name_long		[food] Warehouse	
+label_requirement_needs_healing		Is damaged in a conflict:	
+label_toggle_on_off		Toggle On/Off	
+label_on_off		On/Off	
+cutscene_cities_start_title		Welcome to your city	
+cutscene_cities_start_text_0		Hi there, and welcome to the modern city! I am the City Advisor.	
+cutscene_cities_start_text_1		I’ll come by every once in a while to help you manage your city	
+cutscene_cities_start_text_3		Good luck!	
+statuseffect_depleted_description		The farm is depleted and needs to be watered	
+statuseffect_depleted_lore		Dry dirt	
+statuseffect_depleted_name		Depleted	
+card_rumor_genius_name		Eureka!	
+quest_cities_unlock_oil_text		Unlock the Black Gold pack	
+card_pack_sale_name		Pack Sale	
+card_pack_sale_description		Packs are 50% off!	
+card_pack_sale_text		Big sale!	
+card_festival_name		Festival	
+card_festival_description		Everybody's celebrating	
+card_festival_text		Party!	
+pack_cities_industry_text		Impressive Industry	
+card_stadium_name		Stadium	
+card_stadium_status_0		Constructing a Stadium	
+card_stadium_status_1		Currently playing games	
+card_display_2000_dlc_name		Stacklands 2000	
+card_display_2000_dlc_description		Buy the Stacklands 2000 DLC to get access to these cards	
+card_rumor_quantum_entangled_uranium_description		Two Uranium cards colliding at high speeds should cause some nice sparks...	
+card_energy_splitter_name		Energy Splitter	
+card_energy_splitter_description		Splits 1x High Voltage into 3x Low Voltage	
+card_energy_splitter_status_0		Constructing an Energy Splitter	
+card_energy_combiner_name		Energy Combiner	
+card_energy_combiner_description		Combines 3x Low Voltage and turns it into 1x High Voltage	
+card_energy_combiner_status_0		Constructing an Energy Combiner	
+label_high_voltage		High Voltage	
+label_low_voltage		Low Voltage	
+label_energy_input		Needs	
+label_energy_output		Outputs	
+label_connection_type_output		Output	
+label_connection_type_input		Input	
+label_connection_high_voltage		High Voltage	
+label_connection_low_voltage		Low Voltage	
+card_robot_station_name		Robot Station	
+card_robot_station_description		Houses Robot Workers	
+card_robot_station_status_0		Constructing a Robot Station	
+quest_cities_first_cable_text		Connect an energy cable	
+quest_cities_5_low_power_text		Connect 5 low voltage connectors	
+quest_cities_10_low_power_text		Connect 10 low voltage connectors	
+quest_cities_high_power_text		Connect a high voltage connector	
+quest_cities_5_high_power_text		Connect 5 high voltage connectors	
+quest_cities_lose_wellbeing_text		Lose your first wellbeing point	
+quest_cities_gain_wellbeing_text		Gain your first wellbeing point	
+quest_cities_gain_5_wellbeing_text		Gain 5 wellbeing points in a moon	
+quest_cities_lose_5_wellbeing_text		Lose 5 wellbeing points in a moon	
+quest_cities_40_wellbeing_text		Reach 40 wellbeing	
+quest_cities_max_wellbeing_text		Max out your wellbeing	
+quest_cities_6_workers_text		Have 6 Workers	
+quest_cities_12_workers_text		Have 12 Workers	
+quest_cities_6_educated_workers_text		Have 6 Educated Workers	
+quest_cities_genius_text		Educate a Genius	
+quest_cities_full_container_text		Have a full Storage Container	
+quest_cities_conveyor_text		Use a Conveyor to move items	
+quest_cities_collector_text		Use a Collector to collect cards	
+quest_cities_card_cap_text		Increase your card cap	
+card_festival_end_text		The Festival is ending	
+card_park_name		City Park	
+card_park_description		Outdoor pleasantries	
+card_park_status_0		Constructing a City Park	
+label_requirement_has_energy		Has energy:	
+cutscene_cities_first_landmark_title		Landmarks	
+cutscene_cities_first_landmark_text_0		Landmarks are important structures that will give the city a wellbeing boost	
+cutscene_cities_first_landmark_text_1		Some Landmarks need energy to run - be sure to keep them running, or you’ll lose wellbeing!	
+card_themepark_name		Theme Park	
+card_themepark_description		I love rollercoasters	
+card_themepark_status_0		Constructing a Theme Park	
+label_blueprint_wellbeing_generation		Will give [amount] [icon] when constructed	
+label_blueprint_pollution_generation		Will generate [amount] [icon] when constructed	
+card_villager_statue_name		Villager Statue	
+card_villager_statue_description		Remembering the old times of Villagers and Berry Bushes	
+card_villager_statue_status_0		Constructing a Villager Statue	
+card_hospital_name		Hospital	
+card_hospital_description		Health is wealth	
+card_hospital_status_0		Constructing a Hospital	
+card_airport_name		Airport	
+card_airport_description		Time for holidays!	
+card_airport_status_0		Constructing an Airport	
+ideagroup_landmark		Landmarks	
+card_zoo_name		Zoo	
+card_zoo_description		For the animal lovers	
+card_zoo_status_0		Constructing a Zoo	
+card_toy_factory_name		Toy Shop	
+card_toy_factory_description		All kinds of collectibles	
+card_toy_factory_status_0		Constructing a Toy Shop	
+questgroup_cities_landmark		Landmarks	
+quest_cities_build_second_landmark_text		Build a second Landmark	
+quest_cities_all_landmarks_text		Construct all Landmarks	
+cutscene_cities_festival_title		The Festival	
+cutscene_cities_festival_text_0		Your workers are loving the Festival!	
+cutscene_cities_pack_sale_title		PACK SALE!	
+cutscene_cities_pack_sale_text_0		A Pack Sale has started!	
+card_steam_generator_name		Burner Generator	
+card_steam_generator_description		Burns Lumber to generate Energy	
+card_steam_generator_status_0		Constructing a Burner Generator	
+cutscene_cities_wellbeing_30_text		Wow, the city looks amazing!	
+cutscene_cities_wellbeing_30_text_1		A rumor is spreading around the city...	
+label_goblin_info		For each Goblin outside of conflict you will lose 1 wellbeing	
+card_laboratory_name		Laboratory	
+card_laboratory_description		Where science is made	
+card_laboratory_status_0		Constructing a Laboratory	
+card_laboratory_status_1		Doing science stuff	
+label_damaged		Damaged	
+label_on_fire		On fire	
+label_connector_info		Drag the connector to connect structures	
+label_take_time_machine		Time Machine	
+label_go_to_cities_mainland		Are you sure you want to go back to the city?	
+label_go_to_mainland_cities		Are you sure you want to go back to the mainland?	
+card_time_machine_name_real		Time Machine	
+card_time_machine_desctiption_real		Takes you back to the past	
+label_recruiting_worker		Recruiting new Worker	
+card_shack_name		Shack	
+card_shack_description		Barely liveable...	
+card_shack_status_0		Constructing a Shack	
+card_hydroponic_farm_name		Hydroponic Farm	
+card_hydroponic_farm_description		Uses Water to farm more efficiently	
+card_hydroponic_farm_status_0		Constructing a Hydroponic Farm	
+label_requirement_take_card_negative		Have fewer than [amount]x [card] in the city:	
+label_requirement_take_dollars_on_top_negative		Has fewer than [amount] Money on top:	
+label_requirement_take_dollars_negative		Has less than [amount] Money in city:	
+label_requirement_take_food_negative		Not able to consume [amount] food:	
+label_requirement_has_housing_negative		Doesn't have housing:	
+label_requirement_has_energy_negative		Doesn't have Energy:	
+label_requirement_worker_amount_met_negative		Doesn't have Workers:	
+label_requirement_has_pollution_negative		Has [amount] pollution:	
+label_requirement_needs_healing_negative		Has full health:	
+label_requirement_has_pollution_landfill_negative		Has less than [amount] pollution:	
+label_requirement_on_active_board_negative		Not in the city:	
+label_requirement_in_conflict		In conflict:	
+label_requirement_in_conflict_negative		Not in conflict:	
+label_at_end_moon		At end of moon	
+label_requirement_landmark_first_time		Landmark in city for first time:	
+label_requirement_landmark_first_time_negative		Landmark in city (after first time):	
+quest_cities_city_park_text		Build a City Park	
+quest_cities_30_wellbeing_text		Reach 30 wellbeing	
+quest_cities_20_wellbeing_text		Reach 20 wellbeing	
+quest_cities_50_wellbeing_text		Reach 50 wellbeing	
+quest_cities_disaster_text		Witness a Disaster	
+quest_cities_get_bar_text		Smelt some Ore	
+quest_cities_get_uranium_text		Collect Uranium	
+label_abandon_city		Abandon city	
+label_abandon_city_title		Abandon this city	
+label_abandon_city_text		Are you sure you want to abandon this city? You will go back to the mainland and lose the city forever	
+label_skip		Skip	
+card_metal_scraps_status_2		Making Iron Bar	
+card_iron_bar_scraps_description		Turning Scraps into an Iron Bar	
+questgroup_cities_worker		Workforce	
+quest_unlocked_all_cities_packs_text		Unlock all Packs	
+quest_cities_build_themepark_text		Build a Theme Park	
+card_bread_2000_name		Bread 2000	
+card_bread_2000_description		Bread: Reinvented	
+card_bread_2000_status_0		Cooking Bread	
+label_energy_view		Change View	
+card_event_industrial_revolution_name		Industrial Revolution	
+card_event_industrial_revolution_description		Place a Villager on top of this card to start the Industrial Revolution	
+label_go_to_cities		Industrial Revolution	
+label_go_to_city_title		Stacklands 2000 - Industrial Revolution	
+label_go_to_city_text		Do you want to start the Industrial Revolution? You will leave the mainland, but you can always come back	
+label_cutscene_industrial_revolution_title		Start the Revolution	
+label_cutscene_industrial_revolution_text		Your food source is very stable - this leaves your Villagers free to focus on more advanced technology...	
+label_cutscene_industrial_revolution_text_1		You've discovered the Industrial Revolution!	
+control_toggle_energy_view		Toggle view	
+card_slums_name		Slums	
+card_slums_description		Too many Shacks in one spot	
+card_slums_status_0		Turning into Slums	
+card_copper_deposit_name		Copper Deposit	
+card_copper_deposit_description		Contains Copper Ore	
+card_copper_deposit_status		Collecting Copper Ore	
+card_iron_deposit_cities_name		Iron Deposit	
+card_iron_deposit_cities_description		Contains Iron Ore	
+card_iron_deposit_cities_status		Collecting Iron Ore	
+card_solar_panel_name		Solar Panel	
+card_solar_panel_description		Unlimited free energy from the sun	
+card_solar_panel_status_0		Generating energy	
+card_spy_name		Spy	
+card_spy_description		Looks just like a Goblin!	
+label_landmark_fullname		Landmark: [name]	
+card_drought_name		Drought	
+card_drought_description		Parched!	
+label_drought_start		There is no Rain on the radar	
+label_cities_drought_title		Drought	
+label_cities_drought_text		A drought has hit the city	
+label_cities_drought_text_1		Farmlands will stop functioning until you give them 3 Water	
+statuseffect_drought_description		The Farmland turned into a wasteland	
+statuseffect_drought_lore		You could shoot a spaghetti western here	
+statuseffect_drought_name		Drought	
+card_transmission_tower_name		Transmission Tower	
+card_transmission_tower_description		Brrrrzzzz 	
+card_transmission_tower_status_0		Constructing a Transmission Tower	
+card_artwork_name		Artwork	
+card_artwork_description		The next Van Gogh?	
+card_recycling_center_description_long		Removes pollution from the city. Currently houses [current] pollution	
+card_overflowing_recycling_center_name		Overflowing Recycling Center	
+card_overflowing_recycling_center_description		It's still pretty gross	
+blueprint_citiesironbar_name		Iron Bar	
+quest_cities_storage_text		Build a Storage Container	
+blueprint_copper_bar_status		Making Copper Bar	
+card_merch_name		Merch	
+card_merch_description		Fans go wild!	
+label_view_default		Default	
+label_view_energy		Energy	
+label_view_sewage		Sewer	
+label_view_transport		Transport	
+label_view_calamity		Calamity	
+label_connection_sewer		Sewage	
+label_connection_transport		Transport	
+card_septic_tank_name		Septic Tank	
+card_septic_tank_description		Poop storage	
+card_septic_tank_status_0		Constructing a Septic Tank	
+label_requirement_has_sewer_connected		Connected to sewers:	
+label_requirement_has_sewer_connected_negative		Not connected to sewers:	
+statuseffect_no_sewer_description		Has a chance of creating Poop when not connected to the sewers	
+statuseffect_no_sewer_lore		Very brave to leave it disconnected	
+statuseffect_no_sewer_name		Sewer needed	
+card_water_treatment_plant_name		Water Treatment Plant	
+card_water_treatment_plant_description		Converts sewage into Water	
+card_water_treatment_plant_status_0		Constructing a Water Treatment Plant	
+card_water_treatment_plant_status_1		Filtering Sewage	
+card_food_warehouse_status_2		Storing Food	
+quest_cities_build_villager_statue_text		Build a Villager Statue	
+card_junction_name		Junction	
+card_junction_description		Automatically redirects cards on top of it to its different transport outputs	
+card_junction_status_0		Constructing Junction	
+cardtype_landmarks		Landmarks	
+card_road_builder_name		Road Builder	
+card_road_builder_description		A guild for road builders, allows you to build roads between cards	
+card_road_builder_status_0		Constructing a Road Builder	
+card_crossroad_name		Crossroads	
+card_crossroad_description		Automatically redirects cards on top of it to its different road outputs	
+card_crossroad_status_0		Constructing a Crossroads	
+card_fancy_apartment_status_0		Constructing a Luxury Apartment	
+quest_cities_time_machine_text		Build an Unknown Machine	
+quest_cities_transport_text		Connect a Transport Road	
+quest_cities_transport_5_text		Have 5 connected Transport Roads	
+card_time_machine_status_2		Charging Unknown Machine	
+card_alien_name		Alien	
+card_alien_description		Worker from outer space	
+card_alien_status_0		Making an Alien	
+cutscene_cities_villager_timemachine_title		Waah!	
+cutscene_cities_villager_timemachine_text_0		What is this place! 	
+cutscene_cities_villager_timemachine_text_1		My mind can comprehend this aaaah!	
+card_rumor_genius_description		Educating an Educated Worker while having a wellbeing of 50 will create a Genius	
+card_robot_worker_description		Worker made of metal - doesn't need Food!	
+card_academy_description		Used to educate your Workers	
+card_stadium_description		Houses sports events for multiple moons	
+card_fossil_name		Fossil	
+card_fossil_description		Boney mess	
+card_city_hall_description_long		Increases Card Cap by 2 for every 10 Money given to it. Can also be used to rename Workers.	
+card_city_hall_description		Increases Card Cap by 2 for every 10 Money given to it. Can also be used to rename Workers.	
+card_dino_name		T-Rex	
+card_dino_description		Big bad dino	
+card_dino_status_0		Fixing up a Fossil	
+label_cities_time_ending_title		A monologue	
+label_cities_time_ending_text		It's time for my latest invention..	
+label_cities_time_ending_text_1		Even though we've built all this technology...	
+label_cities_time_ending_text_2		We've made a big mess and I'm done with it..	
+label_cities_time_ending_text_3		I just want to eat berries again!	
+label_cities_time_ending_text_4		I want to get out of here!	
+label_cities_time_ending_text_5		See you later!	
+card_robot_soldier_name		Robot Soldier	
+card_robot_soldier_description		Roger roger	
+card_robot_soldier_status_0		Training a Robot Soldier	
+card_robot_genius_name		Robot Genius	
+card_robot_genius_description		Artificial Intelligence	
+quest_cities_robot_society_text		Have 10 Robot Workers but no regular Workers	
+quest_cities_green_energy_text		Have 10 energy cables connected to green energy	
+label_view_transport_default		Road	
+questgroup_cities_misc		Town Tasks	
+questgroup_cities_wellbeing		Quality of Life	
+card_cities_cat_name		Cat 2000	
+card_cities_cat_description		Cat civilization?	
+card_cities_dog_name		Dog 2000	
+card_cities_dog_description		*woof*	
+label_requirement_energy_workers		Has Energy and Workers:	
+label_requirement_energy_workers_negative		Does not have Energy and Workers:	
+cutscene_cities_particle_collider_title		Particle Collider	
+cutscene_cities_particle_collider_text		"There's a big red button that says ""Start"" on it"	
+cutscene_cities_particle_collider_switch		Press the button	
+cutscene_cities_particle_collider_text_1		The Collider created an unstable particle!	
+label_energy_view_infobox		Select the current view	
+quest_cities_pets_text		Have 5 Pets	
+quest_cities_trex_text		Defeat the T-Rex	
+quest_cities_aliens_text		Have 3 Aliens 	
+label_dino_laboratory		You are about to start a dangerous experiment, are you sure you want to do this?	
+label_start_dino		Start the experiment	
+label_cancel_dino		Cancel the experiment	
+card_filtered_junction_name		Filter Junction	
+card_filtered_junction_name_long		[card] Junction	
+card_filtered_junction_description		Drag a Card on top to set the filter. It will output filtered card to the top road connection, and others to the bottom	
+card_filtered_junction_status_0		Constructing a Filtered Junction	
+card_filtered_crossroad_name		Filter Crossroads	
+card_filtered_crossroad_name_long		[card] Crossroads	
+card_filtered_crossroad_description		Drag a Card on top to set the Filter. It will output filtered card to the top road connection, and others to the bottom	
+card_filtered_crossroad_status_0		Constructing a Filtered Crossroads	
+card_crab_scale_armor_description	"We had a report the Chinese translation isn't quite right for this (it uses ""scale"" as in ""weight scale""), could you have a look at it?"	The scales are impenetrable	
